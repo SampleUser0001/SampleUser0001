@@ -12,7 +12,7 @@
 
 # Repositories
 
-https://github.com/SampleUser0001
+[https://github.com/SampleUser0001](https://github.com/SampleUser0001)
 
 <!--
 **SampleUser0001/SampleUser0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
