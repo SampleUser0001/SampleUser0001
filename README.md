@@ -4,8 +4,8 @@
 
 ## AR
 
-[Use_a-frame](https://sampleuser0001.github.io/Use_a-frame/)
-[Use_ARjs_and_A-Frame](https://sampleuser0001.github.io/Use_ARjs_and_A-Frame/)
+- [Use_a-frame](https://sampleuser0001.github.io/Use_a-frame/)
+- [Use_ARjs_and_A-Frame](https://sampleuser0001.github.io/Use_ARjs_and_A-Frame/)
 
 ## S3
 
