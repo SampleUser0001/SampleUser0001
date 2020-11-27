@@ -11,6 +11,11 @@
 - [8thwall AR and Object](https://sampleuser0001.github.io/8thwallarandobject/)
 - [AR_Muzan_Marker](https://sampleuser0001.github.io/AR_Muzan_Marker/)
 
+### 8thwall
+
+- [Calcurator_8thwall_ARMarker_Size/](https://sampleuser0001.github.io/Calcurator_8thwall_ARMarker_Size/)
+  - 8thwallで読み込めるARマーカーのサイズを計算する。
+
 ### ARマーカー
 
 - [Hiroマーカー](ar/images/ar_marker_hiro.jpeg)
