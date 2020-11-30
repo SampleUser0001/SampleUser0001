@@ -25,9 +25,10 @@
 
 - [HTML5_CSS_JavaScript_Programing](https://sampleuser0001.github.io/HTML5_CSS_JavaScript_Programing/)
 
-### モーダルウィンドウ
+### その他
 
 - [Use_ModalWindow](https://sampleuser0001.github.io/Use_ModalWindow)
+- [GoToTop_Sample](https://sampleuser0001.github.io/GoToTop_Sample/)
 
 ## S3
 
