@@ -35,6 +35,8 @@
 
 - [Use_ModalWindow](https://sampleuser0001.github.io/Use_ModalWindow)
 - [GoToTop_Sample](https://sampleuser0001.github.io/GoToTop_Sample/)
+- [HLS-sample-with-AWS-S3](https://sampleuser0001.github.io/HLS-sample-with-AWS-S3/)
+  - Amazon Elastic TranscoderとAWS S3を使用してmp4→m3u8ファイルの変換
 
 ## S3
 
