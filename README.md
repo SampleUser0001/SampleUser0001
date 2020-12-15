@@ -9,7 +9,9 @@
 - [Use_a-frame](https://sampleuser0001.github.io/Use_a-frame/)
 - [Use_ARjs_and_A-Frame](https://sampleuser0001.github.io/Use_ARjs_and_A-Frame/)
 - [ARMarker_toModal](https://sampleuser0001.github.io/ARMarker_toModal/)
-- [8thwall AR and Object](https://sampleuser0001.github.io/8thwallarandobject/)
+- 8thwall AR and Object
+  - [Github Pages](https://sampleuser0001.github.io/8thwallarandobject/)
+  - [AWS CloudFront](https://dfo56lxw1l2zx.cloudfront.net/index.html)
 - [AR_Muzan_Marker](https://sampleuser0001.github.io/AR_Muzan_Marker/)
 
 ### 8thwall
