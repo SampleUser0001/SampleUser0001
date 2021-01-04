@@ -39,6 +39,8 @@
 - [GoToTop_Sample](https://sampleuser0001.github.io/GoToTop_Sample/)
 - [HLS-sample-with-AWS-S3](https://sampleuser0001.github.io/HLS-sample-with-AWS-S3/)
   - Amazon Elastic TranscoderとAWS S3を使用してmp4→m3u8ファイルの変換
+- [Cryptographic_tool_byVBA](https://sampleuser0001.github.io/Cryptographic_tool_byVBA/)
+  - 暗号化ツール（VBA版）
 
 ## S3
 
