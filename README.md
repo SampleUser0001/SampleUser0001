@@ -12,7 +12,6 @@
 - 8thwall AR and Object
   - [Github Pages](https://sampleuser0001.github.io/8thwallarandobject/)
   - [AWS CloudFront](https://dfo56lxw1l2zx.cloudfront.net/index.html)
-- [AR_Muzan_Marker](https://sampleuser0001.github.io/AR_Muzan_Marker/)
 
 ### 8thwall
 
