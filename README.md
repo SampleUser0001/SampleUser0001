@@ -2,6 +2,13 @@
 
 [cloud9_note](https://sampleuser0001.github.io/cloud9_note/)
 
+## Tools
+
+| ツール名 | 概要 | リンク |
+| :---- | :--- | :--- |
+| Replace | 一括置換 | [Replace](https://github.com/SampleUser0001/ReplaceByJava) |
+| DiffProperties | Javaのpropertiesの差分を取得する | [DiffProperties](https://github.com/SampleUser0001/DiffProperties) |
+
 ## AR
 
 [AR.md](./AR.md)
@@ -15,11 +22,6 @@
 ## HTML/CSS/JavaScript
 
 - [HTML5_CSS_JavaScript_Programing](https://sampleuser0001.github.io/HTML5_CSS_JavaScript_Programing/)
-
-## Tools
-
-- [Replace](https://github.com/SampleUser0001/ReplaceByJava)
-  - 一括置換ツール
 
 ### その他
 
