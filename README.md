@@ -8,6 +8,7 @@
 | :---- | :--- | :--- |
 | Replace | 一括置換 | [Replace](https://github.com/SampleUser0001/ReplaceByJava) |
 | DiffProperties | Javaのpropertiesの差分を取得する | [DiffProperties](https://github.com/SampleUser0001/DiffProperties) |
+| ConvertSpaceIndexToComma | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) |
 
 ## AR
 
