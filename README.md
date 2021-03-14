@@ -12,10 +12,13 @@
 
 ## Java
 
-- [JavaSamples](https://github.com/SampleUser0001/JavaSamples)
-- [MultiThreadSample](https://github.com/SampleUser0001/MultiThreadSample.git)
-- [UseConcurrentHashMap_byJava](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava)
-- [UseConcurrentHashMap_byJava_02](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava_02)
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [JavaSamples](https://github.com/SampleUser0001/JavaSamples) | Javaのサンプル集 |
+| [MultiThreadSample](https://github.com/SampleUser0001/MultiThreadSample.git) | マルチスレッドの実装のサンプル集 |
+| [UseConcurrentHashMap_byJava](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava) | ConcurrentHashMap | マルチスレッドでMap.put, ConcurrentHashMap.put, ConcurrentHashMap.putIfAbsentでmapに登録した場合の動作確認プロジェクト。 |
+| [UseConcurrentHashMap_byJava_02](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava_02) | Mapに対してputしながらgetした場合の挙動。HashMapとConcurrentHashMapの違い |
+| [TemplateMaven](https://github.com/SampleUser0001/TemplateMaven) | Maven on Docker`のGithub Template |
 
 ## Node.js
 
@@ -27,6 +30,7 @@
 | [Practice_Nodejs](https://github.com/SampleUser0001/Practice_Nodejs) | Node.jsの勉強用 |
 | [NodeEJSSample](https://github.com/SampleUser0001/NodeEJSSample) | EJS |
 | [NodeFileDownloadSample](https://github.com/SampleUser0001/NodeFileDownloadSample) | ファイルダウンロード |
+| [TemplateNode](https://github.com/SampleUser0001/TemplateNode) | Node.js on DockerのGithub Template |
 
 ## AR
 
