@@ -20,7 +20,9 @@
 | [UseConcurrentHashMap_byJava_02](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava_02) | Mapに対してputしながらgetした場合の挙動。HashMapとConcurrentHashMapの違い |
 | [TemplateMaven](https://github.com/SampleUser0001/TemplateMaven) | Maven on DockerのGithub Template |
 
-## Node.js
+## JavaScript
+
+### Node.js
 
 | リポジトリ | 概要 |
 | :-- | :-- |
@@ -31,6 +33,13 @@
 | [NodeEJSSample](https://github.com/SampleUser0001/NodeEJSSample) | EJS |
 | [NodeFileDownloadSample](https://github.com/SampleUser0001/NodeFileDownloadSample) | ファイルダウンロード |
 | [TemplateNode](https://github.com/SampleUser0001/TemplateNode) | Node.js on DockerのGithub Template |
+
+### TypeScript
+
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [Practice_Programing_TypeScript](https://github.com/SampleUser0001/Practice_Programing_TypeScript) | オライリー プログラミングTypeScriptの勉強用 |
+| [Study_TypeScript](https://github.com/SampleUser0001/Study_TypeScript) | TypeScriptの勉強用 | 
 
 ## AR
 
