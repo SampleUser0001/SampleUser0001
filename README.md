@@ -10,6 +10,12 @@
 | DiffProperties | Javaのpropertiesの差分を取得する | [DiffProperties](https://github.com/SampleUser0001/DiffProperties) |
 | ConvertSpaceIndexToComma | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) |
 
+## Template
+
+- [TemplateMaven](https://github.com/SampleUser0001/TemplateMaven)
+- [TemplateNode](https://github.com/SampleUser0001/TemplateNode)
+- [Template Python on Docker](https://github.com/SampleUser0001/Template_Python_on_Docker)
+
 ## Java
 
 | リポジトリ | 概要 |
@@ -18,7 +24,6 @@
 | [MultiThreadSample](https://github.com/SampleUser0001/MultiThreadSample.git) | マルチスレッドの実装のサンプル集 |
 | [UseConcurrentHashMap_byJava](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava) | マルチスレッドでMap.put, ConcurrentHashMap.put, ConcurrentHashMap.putIfAbsentでmapに登録した場合の動作確認プロジェクト。 |
 | [UseConcurrentHashMap_byJava_02](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava_02) | Mapに対してputしながらgetした場合の挙動。HashMapとConcurrentHashMapの違い |
-| [TemplateMaven](https://github.com/SampleUser0001/TemplateMaven) | Maven on DockerのGithub Template |
 
 ## JavaScript
 
@@ -26,13 +31,11 @@
 
 | リポジトリ | 概要 |
 | :-- | :-- |
-| [TemplateNode](https://github.com/SampleUser0001/TemplateNode) | Node.js on Docker のテンプレート |
 | [Practice_Hands_on_Node.js](https://github.com/SampleUser0001/Practice_Hands_on_Node.js) | ハンズオンNode.jsの勉強 |
 | [NodeBeginnerBook](https://github.com/SampleUser0001/NodeBeginnerBook) | Nodeビギナーズガイド |
 | [Practice_Nodejs](https://github.com/SampleUser0001/Practice_Nodejs) | Node.jsの勉強用 |
 | [NodeEJSSample](https://github.com/SampleUser0001/NodeEJSSample) | EJS |
 | [NodeFileDownloadSample](https://github.com/SampleUser0001/NodeFileDownloadSample) | ファイルダウンロード |
-| [TemplateNode](https://github.com/SampleUser0001/TemplateNode) | Node.js on DockerのGithub Template |
 
 ### TypeScript
 
