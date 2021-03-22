@@ -21,7 +21,12 @@
 | リポジトリ | 概要 |
 | :-- | :-- |
 | [JavaSamples](https://github.com/SampleUser0001/JavaSamples) | Javaのサンプル集 |
-| [MultiThreadSample](https://github.com/SampleUser0001/MultiThreadSample.git) | マルチスレッドの実装のサンプル集 |
+
+### MultiThread
+
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [MultiThreadSample](https://github.com/SampleUser0001/MultiThreadSample.git) | ExecutorServiceを使用したマルチスレッドの実装のサンプル集 |
 | [UseConcurrentHashMap_byJava](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava) | マルチスレッドでMap.put, ConcurrentHashMap.put, ConcurrentHashMap.putIfAbsentでmapに登録した場合の動作確認プロジェクト。 |
 | [UseConcurrentHashMap_byJava_02](https://github.com/SampleUser0001/UseConcurrentHashMap_byJava_02) | Mapに対してputしながらgetした場合の挙動。HashMapとConcurrentHashMapの違い |
 
