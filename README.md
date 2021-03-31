@@ -34,6 +34,8 @@
 - [TemplateNode](https://github.com/SampleUser0001/TemplateNode)
 - [Template Python on Docker](https://github.com/SampleUser0001/Template_Python_on_Docker)
 - [Template_PHP_MySQL_Nginx](https://github.com/SampleUser0001/Template_PHP_MySQL_Nginx)
+- [Template_PHP_MySQL_Nginx_Laravel](https://github.com/SampleUser0001/Template_PHP_MySQL_Nginx_Laravel)
+  - Laravelはファイル作成があるので、権限問題回避のためにホスト側に入れたほうがいい気もする。
 - [Minecraft Server on Docker](https://github.com/SampleUser0001/MinecraftServer_onDocker)
 
 ## Java
@@ -82,6 +84,7 @@
 | リポジトリ | 概要 |
 | :-- | :-- |
 | [PHP_Tutorial](https://github.com/SampleUser0001/PHP_Tutorial) | [これ](https://www.php.net/manual/ja/tutorial.php)をやってみる |
+| [CreateCookie_byPHP](https://github.com/SampleUser0001/CreateCookie_byPHP) | PHPでのCookieの扱い（setcookie） |
 
 ## AR
 
