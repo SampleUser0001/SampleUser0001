@@ -12,6 +12,8 @@
     - [TypeScript](#typescript)
     - [Vue.js](#vuejs)
   - [PHP](#php)
+    - [Laravel](#laravel)
+      - [参考](#参考)
   - [AR](#ar)
   - [GoogleAnalytics](#googleanalytics)
   - [HTML/CSS/JavaScript](#htmlcssjavascript)
@@ -34,8 +36,6 @@
 - [TemplateNode](https://github.com/SampleUser0001/TemplateNode)
 - [Template Python on Docker](https://github.com/SampleUser0001/Template_Python_on_Docker)
 - [Template_PHP_MySQL_Nginx](https://github.com/SampleUser0001/Template_PHP_MySQL_Nginx)
-- [Template_PHP_MySQL_Nginx_Laravel](https://github.com/SampleUser0001/Template_PHP_MySQL_Nginx_Laravel)
-  - Laravelはファイル作成があるので、権限問題回避のためにホスト側に入れたほうがいい気もする。
 - [Minecraft Server on Docker](https://github.com/SampleUser0001/MinecraftServer_onDocker)
 
 ## Java
@@ -85,6 +85,21 @@
 | :-- | :-- |
 | [PHP_Tutorial](https://github.com/SampleUser0001/PHP_Tutorial) | [これ](https://www.php.net/manual/ja/tutorial.php)をやってみる |
 | [CreateCookie_byPHP](https://github.com/SampleUser0001/CreateCookie_byPHP) | PHPでのCookieの扱い（setcookie） |
+
+### Laravel
+
+``` sh
+curl -s https://laravel.build/example-app | bash
+cd example-app
+./vendor/bin/sail up
+```
+
+#### 参考
+
+- [公式:Laravelとの出会い](https://readouble.com/laravel/8.x/ja/installation.html?header=Windows%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B)
+- [RitoLabo:Laravel Sail なら Docker 開発環境がコマンド 2 撃で構築できる。PHP/MySQLからキューやメール環境までオールインワン](https://www.ritolab.com/entry/217)
+  - こっちのほうが詳しい。
+
 
 ## AR
 
