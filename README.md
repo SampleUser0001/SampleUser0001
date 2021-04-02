@@ -88,10 +88,14 @@
 
 ### Laravel
 
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [CreateCookie_byLaravel](https://github.com/SampleUser0001/CreateCookie_byLaravel) | Laravel（PHPフレームワーク）でCookieを生成する。 |
+
 ``` sh
-curl -s https://laravel.build/example-app | bash
-cd example-app
-./vendor/bin/sail up
+PROJECT_NAME=example-app
+curl -s https://laravel.build/${PROJECT_NAME} | bash
+cd ${PROJECT_NAME} && ./vendor/bin/sail up
 ```
 
 #### 参考
