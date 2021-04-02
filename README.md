@@ -91,6 +91,7 @@
 | リポジトリ | 概要 |
 | :-- | :-- |
 | [CreateCookie_byLaravel](https://github.com/SampleUser0001/CreateCookie_byLaravel) | Laravel（PHPフレームワーク）でCookieを生成する。 |
+| [Practice_Laravel](https://github.com/SampleUser0001/Practice_Laravel.git) | Laravelの勉強用 |
 
 ``` sh
 PROJECT_NAME=example-app
