@@ -64,6 +64,7 @@
 | [Practice_Nodejs](https://github.com/SampleUser0001/Practice_Nodejs) | Node.jsの勉強用 |
 | [NodeEJSSample](https://github.com/SampleUser0001/NodeEJSSample) | EJS |
 | [NodeFileDownloadSample](https://github.com/SampleUser0001/NodeFileDownloadSample) | ファイルダウンロード |
+| [SelfMadeHttpHeader](https://github.com/SampleUser0001/SelfMadeHttpHeader) | 手動でHTTPヘッダを設定する。(HTTPインジェクションの調査) |
 
 ### TypeScript
 
