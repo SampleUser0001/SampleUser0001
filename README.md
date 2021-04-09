@@ -107,7 +107,6 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 - [RitoLabo:Laravel Sail なら Docker 開発環境がコマンド 2 撃で構築できる。PHP/MySQLからキューやメール環境までオールインワン](https://www.ritolab.com/entry/217)
   - こっちのほうが詳しい。
 
-
 ## AR
 
 [AR.md](./AR.md)
@@ -120,8 +119,10 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 
 ## HTML/CSS/JavaScript
 
-- [HTML5_CSS_JavaScript_Programing](https://sampleuser0001.github.io/HTML5_CSS_JavaScript_Programing/)
-- [SelfMadeHttpHeader](https://github.com/SampleUser0001/SelfMadeHttpHeader)
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [HTML5_CSS_JavaScript_Programing](https://github.com/SampleUser0001/HTML5_CSS_JavaScript_Programing) | ゲームを作りながら楽しく学べるHTML5+CSS+JavaScriptプログラミング［改訂版］の練習用 |
+| [OnloadJavaScript](https://github.com/SampleUser0001/OnloadJavaScript) | 画面遷移時にJavaScriptを実行する。 |
 
 ### その他
 
