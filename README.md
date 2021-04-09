@@ -37,6 +37,7 @@
 - [Template Python on Docker](https://github.com/SampleUser0001/Template_Python_on_Docker)
 - [Template_PHP_MySQL_Nginx](https://github.com/SampleUser0001/Template_PHP_MySQL_Nginx)
 - [Minecraft Server on Docker](https://github.com/SampleUser0001/MinecraftServer_onDocker)
+- [NginxContainerTemplate](https://github.com/SampleUser0001/NginxContainerTemplate)
 
 ## Java
 
