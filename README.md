@@ -14,6 +14,7 @@
   - [PHP](#php)
     - [Laravel](#laravel)
       - [参考](#参考)
+  - [Python](#python)
   - [AR](#ar)
   - [GoogleAnalytics](#googleanalytics)
   - [HTML/CSS/JavaScript](#htmlcssjavascript)
@@ -107,6 +108,16 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 - [公式:Laravelとの出会い](https://readouble.com/laravel/8.x/ja/installation.html?header=Windows%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B)
 - [RitoLabo:Laravel Sail なら Docker 開発環境がコマンド 2 撃で構築できる。PHP/MySQLからキューやメール環境までオールインワン](https://www.ritolab.com/entry/217)
   - こっちのほうが詳しい。
+
+## Python
+
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [PythonSamples](https://github.com/SampleUser0001/PythonSamples) | Pythonの基本的な文法のサンプル。 |
+| [Directory_monitaring_Python](https://github.com/SampleUser0001/Directory_monitaring_Python) | ディレクトリの監視を行う。 |
+| [AES_Cipher_byPython](https://github.com/SampleUser0001/AES_Cipher_byPython) | PythonでAES暗号化を行う。（ツール自体の暗号化はあきらめた。） |
+| [CreateGraphByPython](https://github.com/SampleUser0001/CreateGraphByPython) | グラフを描く。 |
+| [Use_PySimpleGui](https://github.com/SampleUser0001/Use_PySimpleGui) | PySampleGuiを使ってみる。 |
 
 ## AR
 
