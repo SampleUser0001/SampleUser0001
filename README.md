@@ -39,6 +39,7 @@ Youtubeの配信アーカイブからコメントを取得する方法を模索�
 
 | リポジトリ | 概要 | 参考 |
 | :-- | :-- | :-- |
+| [GetYoutubeArchiveComments_02](https://github.com/SampleUser0001/GetYoutubeArchiveComments_02)| 参考欄のソースをDockerコンテナ上で動かす | [PythonでYouTube Liveのアーカイブからチャット（コメント）を取得する（改訂版）:雑記帳(@watagasi_):Hatena Blog](http://watagassy.hatenablog.com/entry/2018/10/08/132939) |
 | [GetYoutubeArchiveComments](https://github.com/SampleUser0001/GetYoutubeArchiveComments) | Pythonでスクレイピングする。 | [youtube_livechat_replay_crawler:hase-ryo:Github](https://github.com/hase-ryo/youtube_livechat_replay_crawler) |
 | [YoutubeCommentScraping](https://github.com/SampleUser0001/YoutubeCommentScraping) | Node.jsのyoutube-comment-scraperを使用して取得を試みる。 | [Youtubeのコメントをスクレイピングする:Qiita](https://qiita.com/jkawamoto/items/97d88f27c7d13df8dbf5) |
 | [Use_YoutubeAPI](https://github.com/SampleUser0001/Use_YoutubeAPI) | メモにする予定だったもの。 | |
