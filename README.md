@@ -43,6 +43,7 @@ Youtubeの配信アーカイブからコメントを取得する方法を模索�
 | [GetYoutubeArchiveComments](https://github.com/SampleUser0001/GetYoutubeArchiveComments) | Pythonでスクレイピングする。 | [youtube_livechat_replay_crawler:hase-ryo:Github](https://github.com/hase-ryo/youtube_livechat_replay_crawler) |
 | [YoutubeCommentScraping](https://github.com/SampleUser0001/YoutubeCommentScraping) | Node.jsのyoutube-comment-scraperを使用して取得を試みる。 | [Youtubeのコメントをスクレイピングする:Qiita](https://qiita.com/jkawamoto/items/97d88f27c7d13df8dbf5) |
 | [Use_YoutubeAPI](https://github.com/SampleUser0001/Use_YoutubeAPI) | メモにする予定だったもの。 | |
+| [GetYoutubeArchiveComment_sh](https://github.com/SampleUser0001/GetYoutubeArchiveComment_sh) | sh版 | |
 
 ## Template
 
