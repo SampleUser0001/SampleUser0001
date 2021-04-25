@@ -32,10 +32,12 @@
 | DiffProperties | Javaのpropertiesの差分を取得する | [DiffProperties](https://github.com/SampleUser0001/DiffProperties) | Java |
 | ConvertSpaceIndexToComma | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | Python |
 | GetYoutubeLiveComment | YoutubeのLiveのコメントを取得する。 | [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment) | Python |
+| GetYoutubeArchiveComment | YoutubeのArchiveのコメントを取得する。 | [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment) | Python |
 
 ### YoutubeLiveArchiveCommentScraping
 
-Youtubeの配信アーカイブからコメントを取得する方法を模索中。
+Youtubeの配信アーカイブからコメントを取得する方法を模索したときの残骸。  
+最終的に[GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment)で完了。
 
 | リポジトリ | 概要 | 参考 |
 | :-- | :-- | :-- |
