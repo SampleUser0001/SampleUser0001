@@ -4,7 +4,6 @@
 
 - [Home](#home)
   - [Tools](#tools)
-    - [YoutubeLiveArchiveCommentScraping](#youtubelivearchivecommentscraping)
   - [Template](#template)
   - [Java](#java)
     - [MultiThread](#multithread)
@@ -22,7 +21,8 @@
     - [その他](#その他)
   - [Transfer](#transfer)
   - [S3](#s3)
-- [Repositories](#repositories)
+  - [Repositories](#repositories)
+  - [非公開一覧へのリンク](#非公開一覧へのリンク)
 
 ## Tools
 
@@ -32,21 +32,6 @@
 | DiffProperties | Javaのpropertiesの差分を取得する | [DiffProperties](https://github.com/SampleUser0001/DiffProperties) | Java |
 | ConvertSpaceIndexToComma | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | Python |
 | GetYoutubeLiveComment | YoutubeのLiveのコメントを取得する。 | [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment) | Python |
-| GetYoutubeArchiveComment | YoutubeのArchiveのコメントを取得する。 | [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment) | Python |
-
-### YoutubeLiveArchiveCommentScraping
-
-Youtubeの配信アーカイブからコメントを取得する方法を模索したときの残骸。  
-最終的に[GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment)で完了。
-
-| リポジトリ | 概要 | 参考 |
-| :-- | :-- | :-- |
-| [GetYoutubeArchiveComments_02](https://github.com/SampleUser0001/GetYoutubeArchiveComments_02)| 参考欄のソースをDockerコンテナ上で動かす | [PythonでYouTube Liveのアーカイブからチャット（コメント）を取得する（改訂版）:雑記帳(@watagasi_):Hatena Blog](http://watagassy.hatenablog.com/entry/2018/10/08/132939) |
-| [GetYoutubeArchiveComments](https://github.com/SampleUser0001/GetYoutubeArchiveComments) | Pythonでスクレイピングする。 | [youtube_livechat_replay_crawler:hase-ryo:Github](https://github.com/hase-ryo/youtube_livechat_replay_crawler) |
-| [YoutubeCommentScraping](https://github.com/SampleUser0001/YoutubeCommentScraping) | Node.jsのyoutube-comment-scraperを使用して取得を試みる。 | [Youtubeのコメントをスクレイピングする:Qiita](https://qiita.com/jkawamoto/items/97d88f27c7d13df8dbf5) |
-| [Use_YoutubeAPI](https://github.com/SampleUser0001/Use_YoutubeAPI) | メモにする予定だったもの。 | |
-| [GetYoutubeArchiveComment_sh](https://github.com/SampleUser0001/GetYoutubeArchiveComment_sh) | sh版 | |
-| [youtube_chat_crawler_onDocker](https://github.com/SampleUser0001/youtube_chat_crawler_onDocker) | [youtube_livechat_replay_crawler:hase-ryo:Github](https://github.com/hase-ryo/youtube_livechat_replay_crawler)の参考先 |  |
 
 ## Template
 
@@ -179,9 +164,13 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 
 - [https://ittimfn-public.s3-ap-northeast-1.amazonaws.com/index.html](https://ittimfn-public.s3-ap-northeast-1.amazonaws.com/index.html)
 
-# Repositories
+## Repositories
 
 [https://github.com/SampleUser0001](https://github.com/SampleUser0001)
+
+## 非公開一覧へのリンク
+
+[PrivateNotes](https://github.com/SampleUser0001/PrivateNotes)
 
 <!--
 **SampleUser0001/SampleUser0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
