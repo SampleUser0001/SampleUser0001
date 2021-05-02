@@ -40,6 +40,7 @@
 | ツール名 | 概要 | 使用言語 |
 | :------ | :-- | :--- |
 | [Use_MeCab](https://github.com/SampleUser0001/Use_MeCab) | MeCab を使用する。 | Python |
+| [Get_NG_Pattern](https://github.com/SampleUser0001/Get_NG_Pattern) | [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment)で取得したコメントを形態素解析し、NG対象とするコメントを出力する。 | Python |
 
 ## Template
 
