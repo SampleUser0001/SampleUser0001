@@ -143,6 +143,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [DiffExecuteSpeed_ByPython](https://github.com/SampleUser0001/DiffExecuteSpeed_ByPython) | diffの実行時間の環境ごとの比較 |
 | [Enum_inPython](https://github.com/SampleUser0001/Enum_inPython) | Enumの扱いを調査 |
 | [Import_inPython](https://github.com/SampleUser0001/Import_inPython) | import文の使い方を調査 |
+| [OutputLog_inPython](https://github.com/SampleUser0001/OutputLog_inPython) | ログの出力 |
 
 ## AR
 
