@@ -52,6 +52,7 @@
 - [Template_PHP_MySQL_Nginx](https://github.com/SampleUser0001/Template_PHP_MySQL_Nginx)
 - [Minecraft Server on Docker](https://github.com/SampleUser0001/MinecraftServer_onDocker)
 - [NginxContainerTemplate](https://github.com/SampleUser0001/NginxContainerTemplate)
+- [Template_MeCab](https://github.com/SampleUser0001/Template_MeCab)
 
 ## Java
 
