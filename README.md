@@ -64,6 +64,7 @@
 | [JavaSamples](https://github.com/SampleUser0001/JavaSamples) | Javaのサンプル集 |
 | [Sample_ReadXML_byJava](https://github.com/SampleUser0001/Sample_ReadXML_byJava) | JavaでXMLを読み込む |
 | [Use_zipcloud_json](https://github.com/SampleUser0001/Use_zipcloud_json) | APIを叩いてJSONを読み込む。 |
+| [GetPowerMock](https://github.com/SampleUser0001/GetPowerMock) | PowerMockの使用方法のサンプル |
 
 ### MultiThread
 
