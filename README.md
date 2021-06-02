@@ -154,6 +154,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [Import_inPython](https://github.com/SampleUser0001/Import_inPython) | import文の使い方を調査 |
 | [OutputLog_inPython](https://github.com/SampleUser0001/OutputLog_inPython) | ログの出力 |
 | [Use_Polymorphism_Python](https://github.com/SampleUser0001/Use_Polymorphism_Python) | ポリモーフィズム |
+| [dict_list_inPython](https://github.com/SampleUser0001/dict_list_inPython) | dictとlistを同じループで回したい（無理だった） |
 
 ## AR
 
