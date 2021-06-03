@@ -27,15 +27,16 @@
 
 ## Tools
 
-| ツール名 | 概要 | リンク | 使用言語 |
-| :---- | :--- | :--- | :-- |
-| Replace | 一括置換 | [Replace](https://github.com/SampleUser0001/ReplaceByJava) | Java |
-| DiffProperties | Javaのpropertiesの差分を取得する | [DiffProperties](https://github.com/SampleUser0001/DiffProperties) | Java |
-| ConvertSpaceIndexToComma | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | Python |
-| GetYoutubeLiveComment | YoutubeのLiveのコメントを取得する。 | [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment) | Python |
-| GetYoutubeArchiveComment | YoutubeのArchiveのコメントを取得する。(Youtubeの規約に抵触するため非公開。アーカイブのコメントを取得するAPIの実装を希望。 -> Youtube) | [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment) | Python |
-| OWASPZAP_ResultJson_toTSV | OWASP ZAPの実行結果をTSVに変換する。 | [OWASPZAP_ResultJson_toTSV](https://github.com/SampleUser0001/OWASPZAP_ResultJson_toTSV) | Java |
-| Filepath_toTSV | ファイルパス配下のファイル一覧をtsvに変換する。 | [Filepath_toTSV](https://github.com/SampleUser0001/Filepath_toTSV) | Java |
+| ツール名/リンク | 概要 | 使用言語 |
+| :---- | :--- | :-- |
+| [Replace](https://github.com/SampleUser0001/ReplaceByJava) | 一括置換 | Java |
+| [DiffProperties](https://github.com/SampleUser0001/DiffProperties) | Javaのpropertiesの差分を取得する | Java |
+| [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | Python |
+| [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment)  | YoutubeのLiveのコメントを取得する。 | Python |
+| [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment) | YoutubeのArchiveのコメントを取得する。(Youtubeの規約に抵触するため非公開。アーカイブのコメントを取得するAPIの実装を希望。 -> Youtube) | Python |
+| [OWASPZAP_ResultJson_toTSV](https://github.com/SampleUser0001/OWASPZAP_ResultJson_toTSV)  | OWASP ZAPの実行結果をTSVに変換する。 | Java |
+| [Filepath_toTSV](https://github.com/SampleUser0001/Filepath_toTSV)  | ファイルパス配下のファイル一覧をtsvに変換する。 | Java |
+| [SimilarityMap](https://github.com/SampleUser0001/SimilarityMap_Java) | 通常とは違う条件でMapを検索する | Java |
 
 ### 形態素解析
 
