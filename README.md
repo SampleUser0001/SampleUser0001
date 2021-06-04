@@ -187,6 +187,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 
 - [Transfer_service_memlog](https://github.com/SampleUser0001/Transfer_service_memlog)
 - [FilePublicRepository](https://github.com/SampleUser0001/FilePublicRepository)
+  - [GithubPages](https://sampleuser0001.github.io/FilePublicRepository/)
 
 ## S3
 
