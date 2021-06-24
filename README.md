@@ -39,6 +39,7 @@
 | [Filepath_toTSV](https://github.com/SampleUser0001/Filepath_toTSV)  | ファイルパス配下のファイル一覧をtsvに変換する。 | Java |
 | [SimilarityMap](https://github.com/SampleUser0001/SimilarityMap_Java) | 通常とは違う条件でMapを検索する | Java |
 | [PHPDoc_Scraping_Python](https://github.com/SampleUser0001/PHPDoc_Scraping_Python) | phpDocumentorで生成されるHTMLをスクレイピングする | Python |
+| [equals_and_startWith_Java](https://github.com/SampleUser0001/equals_and_startWith_Java) | 最初に完全一致検索して、見つからない場合のみ前方一致検索する。 | Java |
 
 ### 形態素解析
 
