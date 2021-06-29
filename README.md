@@ -70,6 +70,7 @@
 | [Use_zipcloud_json](https://github.com/SampleUser0001/Use_zipcloud_json) | APIを叩いてJSONを読み込む。 |
 | [GetPowerMock](https://github.com/SampleUser0001/GetPowerMock) | PowerMockの使用方法のサンプル |
 | [GetSimilarity_Java](https://github.com/SampleUser0001/GetSimilarity_Java) | 文字列の類似度を取得する。 |
+| [Research_garbled_text_Java](https://github.com/SampleUser0001/Research_garbled_text_Java) | 文字化け調査用。文字コードを指定して、16進 <-> 文字列変換を行う。 |
 
 ### MultiThread
 
