@@ -113,6 +113,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [TypeScript_MySQL_onDocker](https://github.com/SampleUser0001/TypeScript_MySQL_onDocker) | TypeScript + MySQL環境をDockerで構築する。 |
 | [Use_import_TypeScript](https://github.com/SampleUser0001/Use_import_TypeScript) | export/import文の使い方 |
 | [Use_Sequelize_TypeScript](https://github.com/SampleUser0001/Use_Sequelize_TypeScript) | Sequelize(DB関連のライブラリ) |
+| [TypeScriptDoc_Sample](https://github.com/SampleUser0001/TypeScriptDoc_Sample) | TypeScriptDocを使ってみる |
 
 ### Vue.js
 
