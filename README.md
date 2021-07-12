@@ -35,11 +35,6 @@
 | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | Python |
 | [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment)  | YoutubeのLiveのコメントを取得する。 | Python |
 | [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment) | YoutubeのArchiveのコメントを取得する。(Youtubeの規約に抵触するため非公開。アーカイブのコメントを取得するAPIの実装を希望。 -> Youtube) | Python |
-| [OWASPZAP_ResultJson_toTSV](https://github.com/SampleUser0001/OWASPZAP_ResultJson_toTSV)  | OWASP ZAPの実行結果をTSVに変換する。 | Java |
-| [Filepath_toTSV](https://github.com/SampleUser0001/Filepath_toTSV)  | ファイルパス配下のファイル一覧をtsvに変換する。 | Java |
-| [SimilarityMap](https://github.com/SampleUser0001/SimilarityMap_Java) | 通常とは違う条件でMapを検索する | Java |
-| [PHPDoc_Scraping_Python](https://github.com/SampleUser0001/PHPDoc_Scraping_Python) | phpDocumentorで生成されるHTMLをスクレイピングする | Python |
-| [equals_and_startWith_Java](https://github.com/SampleUser0001/equals_and_startWith_Java) | 最初に完全一致検索して、見つからない場合のみ前方一致検索する。 | Java |
 
 ### 形態素解析
 
@@ -88,7 +83,6 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | :-- | :-- |
 | [Filepath_toTSV](https://github.com/SampleUser0001/Filepath_toTSV)  | ファイルパス配下のファイル一覧をtsvに変換する。 | Java |
 | [GetPowerMock](https://github.com/SampleUser0001/GetPowerMock) | PowerMockの使用方法のサンプル |
-
 
 ## JavaScript
 
