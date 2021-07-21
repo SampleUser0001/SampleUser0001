@@ -68,6 +68,7 @@
 | [Research_garbled_text_Java](https://github.com/SampleUser0001/Research_garbled_text_Java) | 文字化け調査用。文字コードを指定して、16進 <-> 文字列変換を行う。 |
 | [Filepath_Java](https://github.com/SampleUser0001/Filepath_Java) | JavaのPathインスタンスの扱いについて調査 |
 | [Binary_or_Text_Java](https://github.com/SampleUser0001/Binary_or_Text_Java) | バイナリかテキストかの判定を行う |
+| [Regular_Expression_Java](https://github.com/SampleUser0001/Regular_Expression_Java) | 正規表現を扱う |
 
 ### MultiThread
 
