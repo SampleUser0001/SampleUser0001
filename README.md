@@ -5,6 +5,8 @@
 - [Home](#home)
   - [Tools](#tools)
     - [形態素解析](#形態素解析)
+    - [Google API](#google-api)
+      - [Youtube](#youtube)
   - [Template](#template)
   - [Java](#java)
     - [MultiThread](#multithread)
@@ -33,18 +35,27 @@
 | [Replace](https://github.com/SampleUser0001/ReplaceByJava) | 一括置換 | Java |
 | [DiffProperties](https://github.com/SampleUser0001/DiffProperties) | Javaのpropertiesの差分を取得する | Java |
 | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | Python |
-| [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment)  | YoutubeのLiveのコメントを取得する。 | Python |
-| [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment) | YoutubeのArchiveのコメントを取得する。(Youtubeの規約に抵触するため非公開。アーカイブのコメントを取得するAPIの実装を希望。 -> Youtube) | Python |
-| [GoogleAPI_OAuth_init_setting](https://github.com/SampleUser0001/GoogleAPI_OAuth_init_setting) | GoogleAPIのOAuth2.0ファイルを有効化する。 | Python | 
 
 ### 形態素解析
 
 | ツール名 | 概要 | 使用言語 |
 | :------ | :-- | :--- |
 | [Get_NG_Pattern](https://github.com/SampleUser0001/Get_NG_Pattern) | [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment)で取得したコメントを形態素解析し、NG対象とするコメントを出力する。 | Python |
+| [Research_Mplg_similarity](https://github.com/SampleUser0001/Research_Mplg_similarity) | 形態素解析した場合としなかった場合の、文章の類似度の比較を行う。 | Python |
+
+### Google API
+
+#### Youtube
+
+| ツール名/リンク | 概要 | 使用言語 |
+| :---- | :--- | :-- |
+| [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment)  | YoutubeのLiveのコメントを取得する。 | Python |
+| [GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment) | YoutubeのArchiveのコメントを取得する。(Youtubeの規約に抵触するため非公開。アーカイブのコメントを取得するAPIの実装を希望。 -> Youtube) | Python |
 | [Use_MeCab_for_LiveComment](https://github.com/SampleUser0001/Use_MeCab_for_LiveComment) | [Get_NG_Pattern](https://github.com/SampleUser0001/Get_NG_Pattern)で生成した形態素解析結果から[GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment)の出力結果コメントにNG判定を付与する。 | Python |
 | [Use_MeCab_for_ArchiveComment](https://github.com/SampleUser0001/Use_MeCab_for_ArchiveComment) | [Get_NG_Pattern](https://github.com/SampleUser0001/Get_NG_Pattern)で生成した形態素解析結果から[GetYoutubeArchiveComment](https://github.com/SampleUser0001/GetYoutubeArchiveComment)の出力結果コメントにNG判定を付与する。 | Python |
-| [Research_Mplg_similarity](https://github.com/SampleUser0001/Research_Mplg_similarity) | 形態素解析した場合としなかった場合の、文章の類似度の比較を行う。 | Python |
+| [GoogleAPI_OAuth_init_setting](https://github.com/SampleUser0001/GoogleAPI_OAuth_init_setting) | GoogleAPIのOAuth2.0ファイルを有効化する。 | Python | 
+| [YoutubeAPI_OAuth](https://github.com/SampleUser0001/YoutubeAPI_OAuth) | 実行サンプル。指定した動画にlikeする。 | Python |
+| [YoutubeAPI_liveChatBans](https://github.com/SampleUser0001/YoutubeAPI_liveChatBans) | liveChatBansを実行してみる。 | Python |
 
 ## Template
 
