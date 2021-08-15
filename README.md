@@ -23,6 +23,8 @@
   - [GoogleAnalytics](#googleanalytics)
   - [HTML/CSS/JavaScript](#htmlcssjavascript)
     - [その他](#その他)
+  - [DB](#db)
+    - [MySQL](#mysql)
   - [Transfer](#transfer)
   - [S3](#s3)
   - [Repositories](#repositories)
@@ -219,6 +221,15 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
   - Amazon Elastic TranscoderとAWS S3を使用してmp4→m3u8ファイルの変換
 - [Cryptographic_tool_byVBA](https://sampleuser0001.github.io/Cryptographic_tool_byVBA/)
   - 暗号化ツール（VBA版）
+
+## DB
+
+### MySQL
+
+| リポジトリ | 概要 |
+| :--------- | :--- |
+| [Practice_MySQL_Tutorial](https://github.com/SampleUser0001/Practice_MySQL_Tutorial) | shで実行する |
+
 
 ## Transfer
 
