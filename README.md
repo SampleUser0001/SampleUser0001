@@ -194,6 +194,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [dict_list_inPython](https://github.com/SampleUser0001/dict_list_inPython) | dictとlistを同じループで回したい（無理だった） |
 | [Use_pycld2_Python](https://github.com/SampleUser0001/Use_pycld2_Python) | 言語判定ライブラリのpycld2を使用してみる |
 | [Use_obs-websocket-py](https://github.com/SampleUser0001/Use_obs-websocket-py) | obs-websocket-pyを使用してみる |
+| [Use_Dataclasses_Python](https://github.com/SampleUser0001/Use_Dataclasses_Python) | Data Classを使ってみる | 
 
 ## AR
 
