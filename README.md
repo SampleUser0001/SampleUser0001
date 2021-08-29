@@ -196,6 +196,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [Use_obs-websocket-py](https://github.com/SampleUser0001/Use_obs-websocket-py) | obs-websocket-pyを使用してみる |
 | [Use_Dataclasses_Python](https://github.com/SampleUser0001/Use_Dataclasses_Python) | Data Classを使ってみる | 
 | [call_type_Python](https://github.com/SampleUser0001/call_type_Python) | ひたすらtype関数を呼ぶ |
+| [Use_Type_Hint_Python](https://github.com/SampleUser0001/Use_Type_Hint_Python) | Type Hintを使う |
 
 ## AR
 
