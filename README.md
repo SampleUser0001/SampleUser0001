@@ -70,6 +70,7 @@
 | [GoogleAPI_OAuth_init_setting](https://github.com/SampleUser0001/GoogleAPI_OAuth_init_setting) | GoogleAPIのOAuth2.0ファイルを有効化する。 | Python | 
 | [YoutubeAPI_OAuth](https://github.com/SampleUser0001/YoutubeAPI_OAuth) | 実行サンプル。指定した動画にlikeする。 | Python |
 | [YoutubeAPI_liveChatBans](https://github.com/SampleUser0001/YoutubeAPI_liveChatBans) | liveChatBansを実行してみる。 | Python |
+| [Get_Youtube_channel_subscriber_count](https://github.com/SampleUser0001/Get_Youtube_channel_subscriber_count) | チャンネル登録者数を取得する。（概数しか出ない） | Python |
 
 ## Template
 
