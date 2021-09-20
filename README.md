@@ -201,6 +201,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [Use_Dataclasses_Python](https://github.com/SampleUser0001/Use_Dataclasses_Python) | Data Classを使ってみる | 
 | [call_type_Python](https://github.com/SampleUser0001/call_type_Python) | ひたすらtype関数を呼ぶ |
 | [Use_Type_Hint_Python](https://github.com/SampleUser0001/Use_Type_Hint_Python) | Type Hintを使う |
+| [ReadJson_Python](https://github.com/SampleUser0001/ReadJson_Python) | jsonを読み込んでいい感じに扱う方法を調べる |
 
 ## AR
 
