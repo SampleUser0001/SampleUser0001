@@ -202,6 +202,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [call_type_Python](https://github.com/SampleUser0001/call_type_Python) | ひたすらtype関数を呼ぶ |
 | [Use_Type_Hint_Python](https://github.com/SampleUser0001/Use_Type_Hint_Python) | Type Hintを使う |
 | [ReadJson_Python](https://github.com/SampleUser0001/ReadJson_Python) | jsonを読み込んでいい感じに扱う方法を調べる |
+| [MultiThread_Python](https://github.com/SampleUser0001/MultiThread_Python) | Pythonでマルチスレッドを使う | 
 
 ## AR
 
