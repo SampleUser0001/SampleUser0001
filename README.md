@@ -39,6 +39,7 @@
 | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | Python |
 | [Diff_TSV](https://github.com/SampleUser0001/Diff_TSV) | tsvファイルのdiffを取得する。 | Java |
 | [Print_Json_Keys_Python](https://github.com/SampleUser0001/Print_Json_Keys_Python) | jsonファイルをタブ区切りkeyとvalueに分けて表示する。| Python |
+| [Transfer_description](https://github.com/SampleUser0001/Transfer_description) | Node.jsのpackage.jsonのdependenciesとdevDependenciesのパッケージから、```npm search```で取得できるdescriptionをDeepL APIで翻訳する。 | Python |
 
 ### 形態素解析
 
