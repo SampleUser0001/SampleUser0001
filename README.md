@@ -40,6 +40,7 @@
 | [Diff_TSV](https://github.com/SampleUser0001/Diff_TSV) | tsvファイルのdiffを取得する。 | Java |
 | [Print_Json_Keys_Python](https://github.com/SampleUser0001/Print_Json_Keys_Python) | jsonファイルをタブ区切りkeyとvalueに分けて表示する。| Python |
 | [Transfer_description](https://github.com/SampleUser0001/Transfer_description) | Node.jsのpackage.jsonのdependenciesとdevDependenciesのパッケージから、```npm search```で取得できるdescriptionをDeepL APIで翻訳する。 | Python |
+| [yarnlock_to_table](https://github.com/SampleUser0001/yarnlock_to_table) | yarn.lockをtsvに変換する | Python |
 
 ### 形態素解析
 
