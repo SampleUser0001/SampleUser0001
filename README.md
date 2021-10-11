@@ -208,6 +208,9 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [MultiThread_Python](https://github.com/SampleUser0001/MultiThread_Python) | Pythonでマルチスレッドを使う | 
 | [MultiProcessing_Python](https://github.com/SampleUser0001/MultiProcessing_Python) | Pythonでマルチプロセスを使う |
 | [Use_GitPython_Lambda](https://github.com/SampleUser0001/Use_GitPython_Lambda) | AWS LambdaでGitPythonを使う |
+| [Exec_Unix_Command_Python](https://github.com/SampleUser0001/Exec_Unix_Command_Python) | Pythonでunixコマンドを叩く |
+| [Exec_aws_cli_Python](https://github.com/SampleUser0001/Exec_aws_cli_Python) | Pythonでaws-cliコマンドを叩く |
+
 
 ## AR
 
