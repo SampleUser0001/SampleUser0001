@@ -7,6 +7,8 @@
     - [形態素解析](#形態素解析)
     - [Google API](#google-api)
       - [Youtube](#youtube)
+    - [AWS](#aws)
+      - [AWS Lambda](#aws-lambda)
   - [Template](#template)
   - [Java](#java)
     - [MultiThread](#multithread)
@@ -15,13 +17,13 @@
     - [Node.js](#nodejs)
     - [TypeScript](#typescript)
     - [Vue.js](#vuejs)
+  - [HTML/CSS/JavaScript](#htmlcssjavascript)
   - [PHP](#php)
     - [Laravel](#laravel)
       - [参考](#参考)
   - [Python](#python)
   - [AR](#ar)
   - [GoogleAnalytics](#googleanalytics)
-  - [HTML/CSS/JavaScript](#htmlcssjavascript)
     - [その他](#その他)
   - [DB](#db)
     - [MySQL](#mysql)
@@ -73,6 +75,15 @@
 | [YoutubeAPI_OAuth](https://github.com/SampleUser0001/YoutubeAPI_OAuth) | 実行サンプル。指定した動画にlikeする。 | Python |
 | [YoutubeAPI_liveChatBans](https://github.com/SampleUser0001/YoutubeAPI_liveChatBans) | liveChatBansを実行してみる。 | Python |
 | [Get_Youtube_channel_subscriber_count](https://github.com/SampleUser0001/Get_Youtube_channel_subscriber_count) | チャンネル登録者数を取得する。（概数しか出ない） | Python |
+
+### AWS
+
+#### AWS Lambda
+
+| ツール名/リンク | 概要 | 使用言語 |
+| :---- | :--- | :-- |
+| [Get_Mergeable_Lambda](https://github.com/SampleUser0001/Get_Mergeable_Lambda) | 起動引数のリポジトリのブランチがマージ可能かを取得する。 | Python |
+| [MergeEventDetection](https://github.com/SampleUser0001/MergeEventDetection) | [Get_Mergeable_Lambda](https://github.com/SampleUser0001/Get_Mergeable_Lambda)を呼ぶ。起動引数の制御をする。 | Python |
 
 ## Template
 
@@ -149,6 +160,14 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [Vue_Practice](https://github.com/SampleUser0001/Vue_Practice) | Vue.jsの勉強をする。 |
 | [vue_cli_test](https://github.com/SampleUser0001/vue_cli_test) | Vue CLIでVue.jsを動かす |
 
+## HTML/CSS/JavaScript
+
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [HTML5_CSS_JavaScript_Programing](https://github.com/SampleUser0001/HTML5_CSS_JavaScript_Programing) | ゲームを作りながら楽しく学べるHTML5+CSS+JavaScriptプログラミング［改訂版］の練習用 |
+| [OnloadJavaScript](https://github.com/SampleUser0001/OnloadJavaScript) | 画面遷移時にJavaScriptを実行する。 |
+| [Practice_Hands_on_JavaScript](https://github.com/SampleUser0001/Practice_Hands_on_JavaScript) | ハンズオンJavaScriptの勉強 |
+
 ## PHP
 
 | リポジトリ | 概要 |
@@ -221,14 +240,6 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 - [Use_GoogleAnalytics](https://sampleuser0001.github.io/Use_GoogleAnalytics/)
   - [リポジトリ](https://github.com/SampleUser0001/Use_GoogleAnalytics)
 - [Test_GoogleAnalytics](https://sampleuser0001.github.io/Test_GoogleAnalytics/)
-
-## HTML/CSS/JavaScript
-
-| リポジトリ | 概要 |
-| :-- | :-- |
-| [HTML5_CSS_JavaScript_Programing](https://github.com/SampleUser0001/HTML5_CSS_JavaScript_Programing) | ゲームを作りながら楽しく学べるHTML5+CSS+JavaScriptプログラミング［改訂版］の練習用 |
-| [OnloadJavaScript](https://github.com/SampleUser0001/OnloadJavaScript) | 画面遷移時にJavaScriptを実行する。 |
-| [Practice_Hands_on_JavaScript](https://github.com/SampleUser0001/Practice_Hands_on_JavaScript) | ハンズオンJavaScriptの勉強 |
 
 ### その他
 
