@@ -37,7 +37,8 @@
 | ツール名/リンク | 概要 | 使用言語 |
 | :---- | :--- | :-- |
 | [Replace](https://github.com/SampleUser0001/ReplaceByJava) | 一括置換 | Java |
-| [DiffProperties](https://github.com/SampleUser0001/DiffProperties) | Javaのpropertiesの差分を取得する | Java |
+| [DiffProperties_forMaven](https://github.com/SampleUser0001/DiffProperties_forMaven) | Javaのpropertiesの差分取得 | Java |
+| [Sorter_forMaven](https://github.com/SampleUser0001/Sorter_forMaven) | tsvファイルのソートを行う。 | Java |
 | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | Python |
 | [Diff_TSV](https://github.com/SampleUser0001/Diff_TSV) | tsvファイルのdiffを取得する。 | Java |
 | [Print_Json_Keys_Python](https://github.com/SampleUser0001/Print_Json_Keys_Python) | jsonファイルをタブ区切りkeyとvalueに分けて表示する。| Python |
