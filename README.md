@@ -79,6 +79,10 @@
 
 ### AWS
 
+| ツール名/リンク | 概要 | 使用言語 |
+| :---- | :--- | :-- |
+| [AWS_Pipeline_CodeBuild](https://github.com/SampleUser0001/AWS_Pipeline_CodeBuild) | AWS PipelineとAWS CodeBuildを紐付ける。適当に修正して使う。 | Python |
+
 #### AWS Lambda
 
 | ツール名/リンク | 概要 | 使用言語 |
