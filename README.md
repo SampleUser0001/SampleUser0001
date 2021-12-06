@@ -41,10 +41,6 @@
 | [Sorter_forMaven](https://github.com/SampleUser0001/Sorter_forMaven) | tsvファイルのソートを行う。 | Java |
 | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | Python |
 | [Diff_TSV](https://github.com/SampleUser0001/Diff_TSV) | tsvファイルのdiffを取得する。 | Java |
-| [Print_Json_Keys_Python](https://github.com/SampleUser0001/Print_Json_Keys_Python) | jsonファイルをタブ区切りkeyとvalueに分けて表示する。| Python |
-| [Transfer_description](https://github.com/SampleUser0001/Transfer_description) | Node.jsのpackage.jsonのdependenciesとdevDependenciesのパッケージから、```npm search```で取得できるdescriptionをDeepL APIで翻訳する。 | Python |
-| [yarnlock_to_table](https://github.com/SampleUser0001/yarnlock_to_table) | yarn.lockをtsvに変換する | Python |
-| [Create_MySQL_csv_Import_sql](https://github.com/SampleUser0001/Create_MySQL_csv_Import_sql) | MySQLのcsvインポート用SQLファイルを生成する | Python |
 
 ### 形態素解析
 
