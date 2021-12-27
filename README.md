@@ -126,7 +126,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 
 | リポジトリ | 概要 |
 | :-- | :-- |
-| [Filepath_toTSV](https://github.com/SampleUser0001/Filepath_toTSV)  | ファイルパス配下のファイル一覧をtsvに変換する。 | Java |
+| [Practice_Quick_Sort](https://github.com/SampleUser0001/Practice_Quick_Sort) | クイックソートのサンプル。マルチスレッドで実装して高速化しようとしたが、インスタンス生成コストのほうが高かった。|
 | [GetPowerMock](https://github.com/SampleUser0001/GetPowerMock) | PowerMockの使用方法のサンプル |
 
 ## JavaScript
