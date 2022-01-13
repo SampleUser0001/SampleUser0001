@@ -42,6 +42,7 @@
 | [Sorter_forMaven](https://github.com/SampleUser0001/Sorter_forMaven) | tsvファイルのソートを行う。 | Java |
 | [ConvertSpaceIndexToComma](https://github.com/SampleUser0001/ConvertSpaceIndexToComma) | (Linuxでよく見かける)半角スペースインデントをカンマ区切りに変換する | Python |
 | [Diff_TSV](https://github.com/SampleUser0001/Diff_TSV) | tsvファイルのdiffを取得する。 | Java |
+| [composer.lock to TSV](https://github.com/SampleUser0001/composer_lock_toTSV) | composer.lockをtsvに変換する。 | Python |
 
 ### 形態素解析
 
