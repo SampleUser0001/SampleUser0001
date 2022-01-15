@@ -138,7 +138,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | リポジトリ | 概要 | ドキュメントURL | 
 | :-- | :-- | :-- |
 | [SpringBoot_FirstApplication](https://github.com/SampleUser0001/SpringBoot_FirstApplication) | 初めての Spring Boot アプリケーションの開発:SpringBoot入門 | [https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.first-application](https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.first-application) |
-| 未作成 | Next | [https://spring.pleiades.io/spring-boot/docs/current/reference/html/using.html#using](https://spring.pleiades.io/spring-boot/docs/current/reference/html/using.html#using) |
+| [SpringBoot_FileDownload](https://github.com/SampleUser0001/SpringBoot_FileDownload) | ファイルダウンロードの実装 | - |
 
 ## JavaScript
 
