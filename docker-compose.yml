@@ -5,7 +5,7 @@ services:
     container_name: local_jekyll
     volumes:
       - ./pages:/usr/src/app
-      - ./output/_site:/srv/jekyll/_site
+      - ./docs:/srv/jekyll/_site
     command: jekyll serve -s /usr/src/app --watch --verbose --trace
     ports:
       - "4000:4000"
