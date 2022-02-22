@@ -55,15 +55,15 @@
 
 #### Youtube
 
-下記をうまく使えばBotで自動生成されるメッセージなんかも自動でBANできるかもしれない…  
-なんだったらNGにしたユーザやコメントをDBに登録して共有化したら複数ユーザにも対応できるかもしれない…
+Botで自動生成されるメッセージを自動でBANするためのツール案。  
+NGにしたユーザやコメントをDBに登録して共有化したら、複数ユーザに対応することも考えられる。
 
 1. [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment)でコメント取得
 2. [Use_MeCab_for_LiveComment](https://github.com/SampleUser0001/Use_MeCab_for_LiveComment)でコメント解析＋NGパターンのコメントを生成
 3. [GetYoutubeLiveComment](https://github.com/SampleUser0001/GetYoutubeLiveComment)でコメントを取得しながら、2で取得したNGコメントと類似度を見ながらNG判定
 4. [YoutubeAPI_liveChatBans](https://github.com/SampleUser0001/YoutubeAPI_liveChatBans)でBAN
 
-とか…
+等。
 
 | ツール名/リンク | 概要 | 使用言語 |
 | :---- | :--- | :-- |
