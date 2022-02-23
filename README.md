@@ -1,8 +1,11 @@
+---
+title: top
+---
+
 # Home
 
-[cloud9_note](https://sampleuser0001.github.io/cloud9_note/)
-
 - [Home](#home)
+  - [TipsList](#tipslist)
   - [Tools](#tools)
     - [形態素解析](#形態素解析)
     - [Google API](#google-api)
@@ -19,6 +22,7 @@
     - [TypeScript](#typescript)
     - [Vue.js](#vuejs)
   - [HTML/CSS/JavaScript](#htmlcssjavascript)
+    - [Jekyll](#jekyll)
   - [PHP](#php)
     - [Laravel](#laravel)
       - [参考](#参考)
@@ -32,6 +36,10 @@
   - [S3](#s3)
   - [Repositories](#repositories)
   - [非公開一覧へのリンク](#非公開一覧へのリンク)
+
+## TipsList
+
+- [TipsList](https://sampleuser0001.github.io/cloud9_note/)
 
 ## Tools
 
@@ -181,6 +189,10 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [OnloadJavaScript](https://github.com/SampleUser0001/OnloadJavaScript) | 画面遷移時にJavaScriptを実行する。 |
 | [Practice_Hands_on_JavaScript](https://github.com/SampleUser0001/Practice_Hands_on_JavaScript) | ハンズオンJavaScriptの勉強 |
 | [CircleGraph_CSS](https://github.com/SampleUser0001/CircleGraph_CSS) | 円グラフを書く | 
+
+### Jekyll
+
+- [Jekyll_Tutorial](https://github.com/SampleUser0001/Jekyll_Tutorial)
 
 ## PHP
 
