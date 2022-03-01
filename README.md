@@ -158,6 +158,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [NodeFileDownloadSample](https://github.com/SampleUser0001/NodeFileDownloadSample) | ファイルダウンロード |
 | [SelfMadeHttpHeader](https://github.com/SampleUser0001/SelfMadeHttpHeader) | 手動でHTTPヘッダを設定する。(HTTPインジェクションの調査) |
 | [ReadJson_Node](https://github.com/SampleUser0001/ReadJson_Node) | jsonファイルを読み込む。|
+| [import_static_express_Node](https://github.com/SampleUser0001/import_static_express_Node) | expressでstaticファイルを読み込む |
 
 ### TypeScript
 
