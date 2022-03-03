@@ -254,6 +254,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [Exec_Unix_Command_Python](https://github.com/SampleUser0001/Exec_Unix_Command_Python) | Pythonでunixコマンドを叩く |
 | [Exec_aws_cli_Python](https://github.com/SampleUser0001/Exec_aws_cli_Python) | Pythonでaws-cliコマンドを叩く |
 | [Use_Boto3](https://github.com/SampleUser0001/Use_Boto3) | Boto3でaws-cliと同じことをする。（aws-cliが不要なので、AWS Lambdaからでも実行できる。） |
+| [Use_XML_parser_Python](https://github.com/SampleUser0001/Use_XML_parser_Python) | XMLのパースを行う。 |
 
 ## AR
 
