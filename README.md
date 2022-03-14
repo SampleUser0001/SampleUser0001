@@ -104,6 +104,7 @@ NGにしたユーザやコメントをDBに登録して共有化したら、複�
 - [NginxContainerTemplate](https://github.com/SampleUser0001/NginxContainerTemplate)
 - [Template_MeCab](https://github.com/SampleUser0001/Template_MeCab)
 - [TypeScript_MySQL_onDocker](https://github.com/SampleUser0001/TypeScript_MySQL_onDocker)
+- [Node_Script_Template](https://github.com/SampleUser0001/Node_Script_Template)
 
 ## Java
 
