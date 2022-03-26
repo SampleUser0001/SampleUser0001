@@ -29,6 +29,8 @@
     - [その他](#その他)
   - [DB](#db)
     - [MySQL](#mysql)
+  - [Others](#others)
+    - [Selenium](#selenium)
   - [Transfer](#transfer)
   - [S3](#s3)
   - [Repositories](#repositories)
@@ -284,6 +286,15 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | リポジトリ | 概要 |
 | :--------- | :--- |
 | [Practice_MySQL_Tutorial](https://github.com/SampleUser0001/Practice_MySQL_Tutorial) | shで実行する |
+
+## Others
+
+### Selenium
+
+| リポジトリ | 概要 |
+| :--------- | :--- |
+| [Use_Selenium_Python](https://github.com/SampleUser0001/Use_Selenium_Python) | Seleniumを試す |
+| [Use_Selenium_Browser_Automate](https://github.com/SampleUser0001/Use_Selenium_Browser_Automate) | Seleniumのクイックツアーを試してみる（まだやってない） |
 
 
 ## Transfer
