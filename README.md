@@ -296,7 +296,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | :--------- | :--- |
 | [Use_Selenium_Python](https://github.com/SampleUser0001/Use_Selenium_Python) | Seleniumを試す |
 | [Use_Selenium_Browser_Automate](https://github.com/SampleUser0001/Use_Selenium_Browser_Automate) | Seleniumのクイックツアーを試してみる（まだやってない） |
-
+| [First_Selenium_Script](https://github.com/SampleUser0001/First_Selenium_Script) | [最初のSeleniumスクリプトを書く:Selenium](https://www.selenium.dev/ja/documentation/webdriver/getting_started/first_script/)を試してみる |
 
 ## Transfer
 
