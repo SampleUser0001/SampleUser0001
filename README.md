@@ -149,6 +149,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | :-- | :-- | :-- |
 | [SpringBoot_FirstApplication](https://github.com/SampleUser0001/SpringBoot_FirstApplication) | 初めての Spring Boot アプリケーションの開発:SpringBoot入門 | [https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.first-application](https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.first-application) |
 | [SpringBoot_FileDownload](https://github.com/SampleUser0001/SpringBoot_FileDownload) | ファイルダウンロードの実装 | - |
+| [SpringBoot_OAuth2](https://github.com/SampleUser0001/SpringBoot_OAuth2) | OAuth2実装 | [チュートリアル | Spring Boot と OAuth2 - 公式サンプルコード](https://spring.pleiades.io/guides/tutorials/spring-boot-oauth2/) |
 
 ## JavaScript
 
