@@ -194,6 +194,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [OnloadJavaScript](https://github.com/SampleUser0001/OnloadJavaScript) | 画面遷移時にJavaScriptを実行する。 |
 | [Practice_Hands_on_JavaScript](https://github.com/SampleUser0001/Practice_Hands_on_JavaScript) | ハンズオンJavaScriptの勉強 |
 | [CircleGraph_CSS](https://github.com/SampleUser0001/CircleGraph_CSS) | 円グラフを書く | 
+| [Call_SpringBoot_REST_API](https://github.com/SampleUser0001/Call_SpringBoot_REST_API) | [SpringBoot_REST_API](https://github.com/SampleUser0001/SpringBoot_REST_API)を呼ぶ。 | 
 
 ### Jekyll
 
