@@ -51,6 +51,7 @@
 | [Diff_TSV](https://github.com/SampleUser0001/Diff_TSV) | tsvファイルのdiffを取得する。 | Java |
 | [composer.lock to TSV](https://github.com/SampleUser0001/composer_lock_toTSV) | composer.lockをtsvに変換する。 | Python |
 | [Use_md-to-pdf](https://github.com/SampleUser0001/Use_md-to-pdf) | md-to-pdfを使用して Markdown -> PDF変換する。 | Node.js |
+| [Database_Table_info_to_Json_Common](https://github.com/SampleUser0001/Database_Table_info_to_Json_Common) | DB情報をjson出力するライブラリ。 | Java | 
 
 ### 形態素解析
 
@@ -123,6 +124,7 @@ NGにしたユーザやコメントをDBに登録して共有化したら、複�
 | [Filepath_Java](https://github.com/SampleUser0001/Filepath_Java) | JavaのPathインスタンスの扱いについて調査 |
 | [Binary_or_Text_Java](https://github.com/SampleUser0001/Binary_or_Text_Java) | バイナリかテキストかの判定を行う |
 | [Regular_Expression_Java](https://github.com/SampleUser0001/Regular_Expression_Java) | 正規表現を扱う |
+| [Database_Table_info_to_Json_Common](https://github.com/SampleUser0001/Database_Table_info_to_Json_Common) | DB情報をjson出力するライブラリ。 |
 
 ### MultiThread
 
@@ -140,6 +142,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | :-- | :-- |
 | [Practice_Quick_Sort](https://github.com/SampleUser0001/Practice_Quick_Sort) | クイックソートのサンプル。マルチスレッドで実装して高速化しようとしたが、インスタンス生成コストのほうが高かった。|
 | [GetPowerMock](https://github.com/SampleUser0001/GetPowerMock) | PowerMockの使用方法のサンプル |
+| [Database_Table_info_to_Json_Common](https://github.com/SampleUser0001/Database_Table_info_to_Json_Common) | DB情報をjson出力するライブラリ。 |
 
 ### SpringBoot
 
