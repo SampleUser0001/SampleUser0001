@@ -14,6 +14,7 @@
     - [MultiThread](#multithread)
     - [JUnit](#junit)
     - [SpringBoot](#springboot)
+    - [SpringBatch](#springbatch)
   - [JavaScript](#javascript)
     - [Node.js](#nodejs)
     - [TypeScript](#typescript)
@@ -155,6 +156,12 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [SpringBoot_FileUpload](https://github.com/SampleUser0001/SpringBoot_FileUpload) | ファイルアップロードの実装 | [ファイルのアップロード:SpringBoot](https://spring.pleiades.io/guides/gs/uploading-files/) |
 | [SpringBoot_OAuth2](https://github.com/SampleUser0001/SpringBoot_OAuth2) | OAuth2実装 | [チュートリアル  Spring Boot と OAuth2 - 公式サンプルコード](https://spring.pleiades.io/guides/tutorials/spring-boot-oauth2/) |
 | [SpringBoot_REST_API](https://github.com/SampleUser0001/SpringBoot_REST_API) | REST API実装 | [REST API の作成](https://spring.pleiades.io/guides/gs/rest-service/) |
+
+### SpringBatch
+
+| リポジトリ | 概要 | ドキュメントURL |
+| :-- | :-- | :-- |
+| [SpringBoot_Batch](https://github.com/SampleUser0001/SpringBoot_Batch) | SpringBatchのサンプル | [まずは実践、Spring Boot Batchの動かし方:Qiita](https://qiita.com/kawakawaryuryu/items/4b3f5cc7574b7bd6b625) |
 
 ## JavaScript
 
