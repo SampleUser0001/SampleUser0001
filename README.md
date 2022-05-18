@@ -25,6 +25,7 @@
     - [Laravel](#laravel)
       - [参考](#参考)
   - [Python](#python)
+  - [C#](#c)
   - [AR](#ar)
   - [GoogleAnalytics](#googleanalytics)
     - [その他](#その他)
@@ -276,6 +277,12 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [Exec_aws_cli_Python](https://github.com/SampleUser0001/Exec_aws_cli_Python) | Pythonでaws-cliコマンドを叩く |
 | [Use_Boto3](https://github.com/SampleUser0001/Use_Boto3) | Boto3でaws-cliと同じことをする。（aws-cliが不要なので、AWS Lambdaからでも実行できる。） |
 | [Use_XML_parser_Python](https://github.com/SampleUser0001/Use_XML_parser_Python) | XMLのパースを行う。 |
+
+## C#
+
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [First_CSharp_Project](https://github.com/SampleUser0001/First_CSharp_Project) | Head First C#のお勉強用。 | 
 
 ## AR
 
