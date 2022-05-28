@@ -19,12 +19,14 @@
     - [Node.js](#nodejs)
     - [TypeScript](#typescript)
     - [Vue.js](#vuejs)
+    - [jQuery](#jquery)
   - [HTML/CSS/JavaScript](#htmlcssjavascript)
     - [Jekyll](#jekyll)
   - [PHP](#php)
     - [Laravel](#laravel)
       - [参考](#参考)
   - [Python](#python)
+  - [C#](#c)
   - [AR](#ar)
   - [GoogleAnalytics](#googleanalytics)
     - [その他](#その他)
@@ -199,6 +201,13 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [Vue_Practice](https://github.com/SampleUser0001/Vue_Practice) | Vue.jsの勉強をする。 |
 | [vue_cli_test](https://github.com/SampleUser0001/vue_cli_test) | Vue CLIでVue.jsを動かす |
 
+### jQuery
+
+| リポジトリ | 概要 |
+| :--------- | :--- |
+| [Practice_jQuery_Desktop_Reference](https://github.com/SampleUser0001/Practice_jQuery_Desktop_Reference) | [jQueryデスクトップリファレンス:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873115245/) の勉強用|
+| [Oreilly_jQuery_Cookbook](https://github.com/SampleUser0001/Oreilly_jQuery_Cookbook) | [jQueryクックブック:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873114682/)の勉強用（Private） |
+
 ## HTML/CSS/JavaScript
 
 | リポジトリ | 概要 |
@@ -276,6 +285,12 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [Exec_aws_cli_Python](https://github.com/SampleUser0001/Exec_aws_cli_Python) | Pythonでaws-cliコマンドを叩く |
 | [Use_Boto3](https://github.com/SampleUser0001/Use_Boto3) | Boto3でaws-cliと同じことをする。（aws-cliが不要なので、AWS Lambdaからでも実行できる。） |
 | [Use_XML_parser_Python](https://github.com/SampleUser0001/Use_XML_parser_Python) | XMLのパースを行う。 |
+
+## C#
+
+| リポジトリ | 概要 |
+| :-- | :-- |
+| [First_CSharp_Project](https://github.com/SampleUser0001/First_CSharp_Project) | Head First C#のお勉強用。 | 
 
 ## AR
 
