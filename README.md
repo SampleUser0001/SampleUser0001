@@ -132,6 +132,7 @@ NGにしたユーザやコメントをDBに登録して共有化したら、複�
 | [Database_Table_info_to_Json_Common](https://github.com/SampleUser0001/Database_Table_info_to_Json_Common) | DB情報をjson出力するライブラリ。 |
 | [Poi_Sample_Java](https://github.com/SampleUser0001/Poi_Sample_Java) | Poiで遊ぶ | 
 | [To_Webhook_message_Java](https://github.com/SampleUser0001/To_Webhook_message_Java) | WebhookにPOSTする |
+| [Generics_Enum_Java](https://github.com/SampleUser0001/Generics_Enum_Java) | Enumで型を振り分ける。（ジェネリクスは使わなかった。） | 
 
 ### MultiThread
 
