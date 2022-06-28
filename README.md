@@ -26,6 +26,7 @@
     - [Laravel](#laravel)
       - [参考](#参考)
   - [Python](#python)
+    - [Django](#django)
   - [C#](#c)
   - [AR](#ar)
   - [GoogleAnalytics](#googleanalytics)
@@ -290,6 +291,12 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [Use_Boto3](https://github.com/SampleUser0001/Use_Boto3) | Boto3でaws-cliと同じことをする。（aws-cliが不要なので、AWS Lambdaからでも実行できる。） |
 | [Use_XML_parser_Python](https://github.com/SampleUser0001/Use_XML_parser_Python) | XMLのパースを行う。 |
 | [Use_Streamlit_Python](https://github.com/SampleUser0001/Use_Streamlit_Python) | Streamlitを使ってみた。 |
+
+### Django
+
+| リポジトリ | 概要 |
+| :------- | :-- |
+| [Tutorial_Django](https://github.com/SampleUser0001/Tutorial_Django) | Djangoチュートリアル | 
 
 ## C#
 
