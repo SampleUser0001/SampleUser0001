@@ -27,6 +27,7 @@
       - [参考](#参考)
   - [Python](#python)
     - [Django](#django)
+  - [Ruby](#ruby)
   - [C#](#c)
   - [AR](#ar)
   - [GoogleAnalytics](#googleanalytics)
@@ -297,6 +298,12 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | リポジトリ | 概要 |
 | :------- | :-- |
 | [Tutorial_Django](https://github.com/SampleUser0001/Tutorial_Django) | Djangoチュートリアル | 
+
+## Ruby 
+
+| リポジトリ | 概要 |
+| :-------- | :-- |
+| [Tutorial_Ruby](https://github.com/SampleUser0001/Tutorial_Ruby) | Rubyのチュートリアル |
 
 ## C#
 
