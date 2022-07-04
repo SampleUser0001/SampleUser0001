@@ -363,6 +363,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 ## S3
 
 - [https://ittimfn-public.s3-ap-northeast-1.amazonaws.com/index.html](https://ittimfn-public.s3-ap-northeast-1.amazonaws.com/index.html)
+- [http://ittimfn-public-lambda.s3-website-ap-northeast-1.amazonaws.com/](http://ittimfn-public-lambda.s3-website-ap-northeast-1.amazonaws.com/)
 
 ## Repositories
 
