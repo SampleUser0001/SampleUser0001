@@ -169,8 +169,11 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [SpringBoot_REST_API](https://github.com/SampleUser0001/SpringBoot_REST_API) | REST API実装 | [REST API の作成](https://spring.pleiades.io/guides/gs/rest-service/) |
 | [SpringBoot_JPA_sqlite](https://github.com/SampleUser0001/SpringBoot_JPA_sqlite) | SpringBootのJPAでsqliteに接続する。 | [JPA でインメモリ H2 データアクセス](https://spring.pleiades.io/guides/gs/accessing-data-jpa/) |
 | [SpringBoot_WebApp_Post](https://github.com/SampleUser0001/SpringBoot_WebApp_Post) | ブラウザからPOSTする。 | [Web 画面フォーム送信処理](https://spring.pleiades.io/guides/gs/handling-form-submission/) |
+<<<<<<< HEAD
 | [SpringBoot_Thymeleaf](https://github.com/SampleUser0001/SpringBoot_Thymeleaf) | SpringBoot + Thymeleaf | [Thymeleaf Web 画面の作成](https://spring.pleiades.io/guides/gs/serving-web-content/) |
 | [Web_Application_SpringBoot_sqlite](https://github.com/SampleUser0001/Web_Application_SpringBoot_sqlite) | SpringBoot + Thymeleaf + sqlite + Bootstrap | - |
+=======
+>>>>>>> b2171a2baf805584acd79322a592015c59b58194
 
 ### SpringBatch
 
