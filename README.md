@@ -173,6 +173,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [SpringBoot_RestTemplate](https://github.com/SampleUser0001/SpringBoot_RestTemplate) | RestTemplateでAPIを呼び出す。 | [RestTemplate で REST API の利用](https://spring.pleiades.io/guides/gs/consuming-rest/) |
 | [Web_Application_SpringBoot_sqlite](https://github.com/SampleUser0001/Web_Application_SpringBoot_sqlite) | SpringBoot + Thymeleaf + sqlite + Bootstrap | - |
 | [SpringBoot_WebSocket](https://github.com/SampleUser0001/SpringBoot_WebSocket) | リアルタイムWebアプリ(WebSockert) | [WebSocket でインタラクティブ Web アプリケーション作成](https://spring.pleiades.io/guides/gs/messaging-stomp-websocket/) |
+| [SpringBoot_Properties](https://github.com/SampleUser0001/SpringBoot_Properties) | propertiesファイルを読み込む | [【Spring Boot】プロパティファイル:b1san's Blog](https://b1san-blog.com/post/spring/spring-properties/) |
 
 ### SpringBatch
 
