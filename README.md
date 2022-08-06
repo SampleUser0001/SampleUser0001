@@ -174,6 +174,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [Web_Application_SpringBoot_sqlite](https://github.com/SampleUser0001/Web_Application_SpringBoot_sqlite) | SpringBoot + Thymeleaf + sqlite + Bootstrap | - |
 | [SpringBoot_WebSocket](https://github.com/SampleUser0001/SpringBoot_WebSocket) | リアルタイムWebアプリ(WebSockert) | [WebSocket でインタラクティブ Web アプリケーション作成](https://spring.pleiades.io/guides/gs/messaging-stomp-websocket/) |
 | [SpringBoot_Properties](https://github.com/SampleUser0001/SpringBoot_Properties) | propertiesファイルを読み込む | [【Spring Boot】プロパティファイル:b1san's Blog](https://b1san-blog.com/post/spring/spring-properties/) |
+| [SpringBoot_CustomSchedule](https://github.com/SampleUser0001/SpringBoot_CustomSchedule) | Scheduleを制御する | - |
 
 ### SpringBatch
 
