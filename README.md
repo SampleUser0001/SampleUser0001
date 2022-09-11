@@ -106,6 +106,7 @@ NGにしたユーザやコメントをDBに登録して共有化したら、複�
 | :---- | :--- | :-- |
 | [Get_Mergeable_Lambda](https://github.com/SampleUser0001/Get_Mergeable_Lambda) | 起動引数のリポジトリのブランチがマージ可能かを取得する。 | Python |
 | [MergeEventDetection](https://github.com/SampleUser0001/MergeEventDetection) | [Get_Mergeable_Lambda](https://github.com/SampleUser0001/Get_Mergeable_Lambda)を呼ぶ。起動引数の制御をする。 | Python |
+| [Use_serverless_Python](https://github.com/SampleUser0001/Use_serverless_Python) | serverlessを使ってみる | Python |
 
 ## Template
 
