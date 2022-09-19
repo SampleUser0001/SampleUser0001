@@ -107,6 +107,7 @@ NGにしたユーザやコメントをDBに登録して共有化したら、複�
 | [Get_Mergeable_Lambda](https://github.com/SampleUser0001/Get_Mergeable_Lambda) | 起動引数のリポジトリのブランチがマージ可能かを取得する。 | Python |
 | [MergeEventDetection](https://github.com/SampleUser0001/MergeEventDetection) | [Get_Mergeable_Lambda](https://github.com/SampleUser0001/Get_Mergeable_Lambda)を呼ぶ。起動引数の制御をする。 | Python |
 | [Use_serverless_Python](https://github.com/SampleUser0001/Use_serverless_Python) | serverlessを使ってみる | Python |
+| [AWS_EventBridge_Lambda_Tutorial](https://github.com/SampleUser0001/AWS_EventBridge_Lambda_Tutorial) | EventBridgeからLambdaを呼び出す。[eventに任意の値を設定できるようにする。](https://sampleuser0001.github.io/cloud9_note/AWS/AWS_Lambda.html#%E4%BB%BB%E6%84%8F%E3%81%AE%E5%80%A4%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
 
 ## Template
 
