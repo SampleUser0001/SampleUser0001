@@ -25,6 +25,7 @@
   - [PHP](#php)
     - [Laravel](#laravel)
       - [参考](#参考)
+    - [Slim](#slim)
   - [Python](#python)
     - [Django](#django)
   - [Ruby](#ruby)
@@ -271,6 +272,12 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 - [公式:Laravelとの出会い](https://readouble.com/laravel/8.x/ja/installation.html?header=Windows%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B)
 - [RitoLabo:Laravel Sail なら Docker 開発環境がコマンド 2 撃で構築できる。PHP/MySQLからキューやメール環境までオールインワン](https://www.ritolab.com/entry/217)
   - こっちのほうが詳しい。
+
+### Slim
+
+| リポジトリ | 概要 |
+| :--------- | :--- |
+| [Practice_Slim_PHP](https://github.com/SampleUser0001/Practice_Slim_PHP) | [Installation - SlimFramework](https://www.slimframework.com/docs/v4/start/installation.html)を試した。 |
 
 ## Python
 
