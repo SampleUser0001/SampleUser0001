@@ -144,6 +144,7 @@ NGにしたユーザやコメントをDBに登録して共有化したら、複�
 | [Amazon_SQS_API_Reference_Sample](https://github.com/SampleUser0001/Amazon_SQS_API_Reference_Sample) | Amazon SQSのQueue作成、メッセージ送信、メッセージ受信、メッセージ削除を実装する。（[Amazon SQS メッセージキューの使用](https://docs.aws.amazon.com/ja_jp/sdk-for-java/v1/developer-guide/examples-sqs-message-queues.html)） |
 | [Tree_Java](https://github.com/SampleUser0001/Tree_Java) | 木構造を実装する。 |
 | [Convert_by_enum_Java](https://github.com/SampleUser0001/Convert_by_enum_Java) | 型変換をenmu経由で行う実装のサンプル（当初ジェネリクスを使おうとして頓挫した実装パターン。） |
+| [Use_Optional_Java:SampleUser0001:Github](https://github.com/SampleUser0001/Use_Optional_Java) | Optionalクラスを使ってnullチェックを行う。 |
 
 ### MultiThread
 
