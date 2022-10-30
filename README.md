@@ -10,7 +10,6 @@
     - [AWS](#aws)
       - [AWS Lambda](#aws-lambda)
   - [Template](#template)
-  - [Practices](#practices)
   - [Java](#java)
     - [MultiThread](#multithread)
     - [JUnit](#junit)
@@ -123,12 +122,6 @@ NGにしたユーザやコメントをDBに登録して共有化したら、複�
 - [Template_MeCab](https://github.com/SampleUser0001/Template_MeCab)
 - [TypeScript_MySQL_onDocker](https://github.com/SampleUser0001/TypeScript_MySQL_onDocker)
 - [Node_Script_Template](https://github.com/SampleUser0001/Node_Script_Template)
-
-## Practices
-
-| 機能 | Express | Django | SpringBoot | Laravel | Rails |
-| :--- | :------ | :----- | :--------- | :------ | :---- |
-| 見栄え確認 | aaa | bbb | ccc | ddd | eee |
 
 ## Java
 
