@@ -378,6 +378,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | :--------- | :--- |
 | [FTP_Server_on_Docker](https://github.com/SampleUser0001/FTP_Server_on_Docker) | FTPサーバを作成する。 |
 | [Subversion_server_on_Docker](https://github.com/SampleUser0001/Subversion_server_on_Docker) | Subversionサーバを作成する。 |
+| [basic_auth_by_nginx](https://github.com/SampleUser0001/basic_auth_by_nginx) | nginxでBasic認証を設定する。 |
 
 ### Selenium
 
