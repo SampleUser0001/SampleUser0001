@@ -63,6 +63,7 @@
 | [SQL_Executor_Java](https://github.com/SampleUser0001/SQL_Executor_Java) | SQLを実行して結果をファイル出力する。 | Java |
 | [GetExtension](https://github.com/SampleUser0001/GetExtension) | 拡張子一覧を取得する。 | Java |
 | [Merge_and_Diff](https://github.com/SampleUser0001/Merge_and_Diff) | ファイルをマージする。マージしたときに項目の有無を確認する。(Diff_TSVでできたような気がするが・・・) | Java |
+| [Export_Excel_Width_Poi](https://github.com/SampleUser0001/Export_Excel_Width_Poi) | Apache POIで列幅を取得する。 | Java |
 
 ### 形態素解析
 
