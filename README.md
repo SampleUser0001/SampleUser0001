@@ -334,6 +334,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | リポジトリ | 概要 |
 | :------- | :-- |
 | [Tutorial_Django](https://github.com/SampleUser0001/Tutorial_Django) | Djangoチュートリアル | 
+| [Practice_React_Django](https://github.com/SampleUser0001/Practice_React_Django) | React.js + Django | 
 
 ## Ruby 
 
