@@ -341,6 +341,7 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | リポジトリ | 概要 |
 | :-------- | :-- |
 | [Tutorial_Ruby](https://github.com/SampleUser0001/Tutorial_Ruby) | Rubyのチュートリアル |
+| [Professional_Ruby](https://github.com/SampleUser0001/Professional_Ruby) | 「プロを目指す人のためのRuby入門」の勉強用 |
 
 ## C#
 
