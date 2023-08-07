@@ -151,6 +151,7 @@ NGにしたユーザやコメントをDBに登録して共有化したら、複�
 | [Use_Optional_Java:SampleUser0001:Github](https://github.com/SampleUser0001/Use_Optional_Java) | Optionalクラスを使ってnullチェックを行う。 |
 | [Practice_JGit_AzureDevOps](https://github.com/SampleUser0001/Practice_JGit_AzureDevOps) | JGitを使ってみる。 |
 | [Get_Azure_DevOps_PullRequest_Java](https://github.com/SampleUser0001/Get_Azure_DevOps_PullRequest_Java) | Azure DevOps APIを実行して、プルリクエストタイトルを取得する。 |
+| [Sqlite_Java](https://github.com/SampleUser0001/Sqlite_Java) | Javaでsqliteに接続する。 |
 
 ### MultiThread
 
