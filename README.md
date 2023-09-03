@@ -190,6 +190,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [SpringBoot_WebSocket](https://github.com/SampleUser0001/SpringBoot_WebSocket) | リアルタイムWebアプリ(WebSockert) | [WebSocket でインタラクティブ Web アプリケーション作成](https://spring.pleiades.io/guides/gs/messaging-stomp-websocket/) |
 | [SpringBoot_Properties](https://github.com/SampleUser0001/SpringBoot_Properties) | propertiesファイルを読み込む | [【Spring Boot】プロパティファイル:b1san's Blog](https://b1san-blog.com/post/spring/spring-properties/) |
 | [SpringBoot_CustomSchedule](https://github.com/SampleUser0001/SpringBoot_CustomSchedule) | Scheduleを制御する | - |
+| [SpringBoot_and_React.js](https://github.com/SampleUser0001/SpringBoot_and_React) | SpringBoot + React.js | [React.js と Spring Data REST](https://spring.pleiades.io/guides/tutorials/react-and-spring-data-rest/) |
 
 ### SpringBatch
 
