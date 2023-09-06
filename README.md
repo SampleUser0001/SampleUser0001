@@ -183,6 +183,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [SpringBoot_OAuth2](https://github.com/SampleUser0001/SpringBoot_OAuth2) | OAuth2実装 | [チュートリアル  Spring Boot と OAuth2 - 公式サンプルコード](https://spring.pleiades.io/guides/tutorials/spring-boot-oauth2/) |
 | [SpringBoot_REST_API](https://github.com/SampleUser0001/SpringBoot_REST_API) | REST API実装 | [REST API の作成](https://spring.pleiades.io/guides/gs/rest-service/) |
 | [SpringBoot_JPA_sqlite](https://github.com/SampleUser0001/SpringBoot_JPA_sqlite) | SpringBootのJPAでsqliteに接続する。 | [JPA でインメモリ H2 データアクセス](https://spring.pleiades.io/guides/gs/accessing-data-jpa/) |
+| [SpringBoot_sqlite](https://github.com/SampleUser0001/SpringBoot_sqlite) | SpringBootでsqliteに接続する。JPAは使用しない。（SpringBoot 3系にVerUpを試みたら、hibernateのバージョン整合性が解消できなかった。） | - |
 | [SpringBoot_WebApp_Post](https://github.com/SampleUser0001/SpringBoot_WebApp_Post) | ブラウザからPOSTする。 | [Web 画面フォーム送信処理](https://spring.pleiades.io/guides/gs/handling-form-submission/) |
 | [SpringBoot_Thymeleaf](https://github.com/SampleUser0001/SpringBoot_Thymeleaf) | SpringBoot + ThymeleafでWebページを生成する。 | [Thymeleaf Web 画面の作成](https://spring.pleiades.io/guides/gs/serving-web-content/) |
 | [SpringBoot_RestTemplate](https://github.com/SampleUser0001/SpringBoot_RestTemplate) | RestTemplateでAPIを呼び出す。 | [RestTemplate で REST API の利用](https://spring.pleiades.io/guides/gs/consuming-rest/) |
