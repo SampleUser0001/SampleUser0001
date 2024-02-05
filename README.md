@@ -29,6 +29,8 @@
     - [Slim](#slim)
   - [Python](#python)
     - [Django](#django)
+  - [Golang](#golang)
+    - [リポジトリ](#リポジトリ)
   - [Ruby](#ruby)
   - [C#](#c)
   - [AR](#ar)
@@ -348,6 +350,14 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 | [Tutorial_Django_2](https://github.com/SampleUser0001/Tutorial_Django_2) | チュートリアル再勉強。いずれマージする。 |
 | [Practice_React_Django](https://github.com/SampleUser0001/Practice_React_Django) | React.js + Django | 
 | [django_project](https://github.com/SampleUser0001/django_project) | 試す用の環境 |
+
+## Golang
+
+### リポジトリ
+
+| リポジトリ | 概要 |
+| :----------- | :--- |
+| [logrus_conf](https://github.com/SampleUser0001/logrus_conf) | logrusの設定を読み込む |
 
 ## Ruby 
 
