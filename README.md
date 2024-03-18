@@ -20,7 +20,7 @@
     - [TypeScript](#typescript)
     - [Vue.js](#vuejs)
     - [jQuery](#jquery)
-    - [Reqct.js](#reqctjs)
+    - [React.js](#reactjs)
   - [HTML/CSS/JavaScript](#htmlcssjavascript)
     - [Jekyll](#jekyll)
   - [PHP](#php)
@@ -196,6 +196,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [SpringBoot_Properties](https://github.com/SampleUser0001/SpringBoot_Properties) | propertiesファイルを読み込む | [【Spring Boot】プロパティファイル:b1san's Blog](https://b1san-blog.com/post/spring/spring-properties/) |
 | [SpringBoot_CustomSchedule](https://github.com/SampleUser0001/SpringBoot_CustomSchedule) | Scheduleを制御する | - |
 | [SpringBoot_and_React.js](https://github.com/SampleUser0001/SpringBoot_and_React) | SpringBoot + React.js | [React.js と Spring Data REST](https://spring.pleiades.io/guides/tutorials/react-and-spring-data-rest/) |
+| [SpringBoot_and_React_2](https://github.com/SampleUser0001/SpringBoot_and_React_2) | SpringBoot + React.jsののBackend側。[SpringBoot_and_React_2_Front](https://github.com/SampleUser0001/SpringBoot_and_React_2_Front)がFrontend。 | [【React.js】SpringBootで作成したAPIを呼び出す方法](https://qiita.com/curry__30/items/c91d489551de68adb759) |
 
 ### SpringBatch
 
@@ -247,12 +248,13 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [Practice_jQuery_Desktop_Reference](https://github.com/SampleUser0001/Practice_jQuery_Desktop_Reference) | [jQueryデスクトップリファレンス:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873115245/) の勉強用|
 | [Oreilly_jQuery_Cookbook](https://github.com/SampleUser0001/Oreilly_jQuery_Cookbook) | [jQueryクックブック:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873114682/)の勉強用 |
 
-### Reqct.js
+### React.js
 
-| リポジトリ | 概要 |
-| :--------- | :--- |
-| [React_Hands_on_Learning_Practice](https://github.com/SampleUser0001/React_Hands_on_Learning_Practice) | [Reactハンズオンラーニング 第2版:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873119380/)の勉強用 |
-| [List_React](https://github.com/SampleUser0001/List_React) | Checkbox + Listを作成する。 |
+| リポジトリ | 概要 | 参考 |
+| :--------- | :--- | :-- |
+| [React_Hands_on_Learning_Practice](https://github.com/SampleUser0001/React_Hands_on_Learning_Practice) | [Reactハンズオンラーニング 第2版:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873119380/)の勉強用 | - |
+| [List_React](https://github.com/SampleUser0001/List_React) | Checkbox + Listを作成する。 | - |
+| [SpringBoot_and_React_2_Front](https://github.com/SampleUser0001/SpringBoot_and_React_2_Front) | SpringBoot + React.jsののFrontend側。[SpringBoot_and_React_2](https://github.com/SampleUser0001/SpringBoot_and_React_2)がBackend。| [【React.js】SpringBootで作成したAPIを呼び出す方法](https://qiita.com/curry__30/items/c91d489551de68adb759) |
 
 ## HTML/CSS/JavaScript
 
