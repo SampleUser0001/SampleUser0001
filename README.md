@@ -68,6 +68,7 @@
 | [Merge_and_Diff](https://github.com/SampleUser0001/Merge_and_Diff) | ファイルをマージする。マージしたときに項目の有無を確認する。(Diff_TSVでできたような気がするが・・・) | Java |
 | [Export_Excel_Width_Poi](https://github.com/SampleUser0001/Export_Excel_Width_Poi) | Apache POIで列幅を取得する。 | Java |
 | [Create_Daily_Task_OpenProject](https://github.com/SampleUser0001/Create_Daily_Task_OpenProject) | OpenProjectに日次タスクを作成する | Python |
+| [diff_select](https://github.com/SampleUser0001/diff_select) | Selectの実行結果の差分を出力する(Oracle) | bash |
 
 ### 形態素解析
 
