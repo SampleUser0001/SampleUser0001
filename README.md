@@ -436,7 +436,8 @@ cd ${PROJECT_NAME} && ./vendor/bin/sail up
 
 ## 非公開一覧へのリンク
 
-[PrivateNotes](https://github.com/SampleUser0001/PrivateNotes)
+- [PrivateNotes : Github](https://github.com/SampleUser0001/PrivateNotes)
+- [Privateへのリンク : AWS Amplify](https://main.d1er9p57pxkuki.amplifyapp.com/)
 
 <!--
 **SampleUser0001/SampleUser0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
