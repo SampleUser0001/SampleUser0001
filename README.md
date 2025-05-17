@@ -15,6 +15,7 @@
     - [JUnit](#junit)
     - [SpringBoot](#springboot)
     - [SpringBatch](#springbatch)
+    - [Android](#android)
   - [JavaScript](#javascript)
     - [Node.js](#nodejs)
     - [TypeScript](#typescript)
@@ -209,6 +210,13 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | :-- | :-- | :-- |
 | [SpringBoot_Batch](https://github.com/SampleUser0001/SpringBoot_Batch) | SpringBatchのサンプル | [まずは実践、Spring Boot Batchの動かし方:Qiita](https://qiita.com/kawakawaryuryu/items/4b3f5cc7574b7bd6b625) |
 | [SpringBatch_2](https://github.com/SampleUser0001/SpringBatch_2) | SpringBatchのお勉強 | [Spring解体新書(バッチ編):Amazon](https://www.amazon.co.jp/dp/B09D3ZTJTB/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) |
+
+### Android
+
+| リポジトリ | 概要 |
+| :-------- | :--- | 
+| [Android_Helloworld](https://github.com/SampleUser0001/Android_Helloworld) | 基本のテンプレート |
+| [Android_Preference](https://github.com/SampleUser0001/Android_Preference) | 設定画面 |
 
 ## JavaScript
 
