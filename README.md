@@ -22,6 +22,7 @@
     - [Vue.js](#vuejs)
     - [jQuery](#jquery)
     - [React.js](#reactjs)
+    - [Angular](#angular)
   - [HTML/CSS/JavaScript](#htmlcssjavascript)
     - [Jekyll](#jekyll)
   - [PHP](#php)
@@ -269,6 +270,12 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [React_Hands_on_Learning_Practice](https://github.com/SampleUser0001/React_Hands_on_Learning_Practice) | [Reactハンズオンラーニング 第2版:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873119380/)の勉強用 | - |
 | [List_React](https://github.com/SampleUser0001/List_React) | Checkbox + Listを作成する。 | - |
 | [SpringBoot_and_React_2_Front](https://github.com/SampleUser0001/SpringBoot_and_React_2_Front) | SpringBoot + React.jsののFrontend側。[SpringBoot_and_React_2](https://github.com/SampleUser0001/SpringBoot_and_React_2)がBackend。| [【React.js】SpringBootで作成したAPIを呼び出す方法](https://qiita.com/curry__30/items/c91d489551de68adb759) |
+
+### Angular
+
+| リポジトリ | 概要 |
+| :--------- | :--- |
+| [Angular_WebSocket](https://github.com/SampleUser0001/Angular_WebSocket) | Angular + WebSocketでリアルタイム通信する(claude codeで作った) |
 
 ## HTML/CSS/JavaScript
 
