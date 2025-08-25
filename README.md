@@ -255,6 +255,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | :-- | :-- |
 | [Vue_Practice](https://github.com/SampleUser0001/Vue_Practice) | Vue.jsの勉強をする。 |
 | [vue_cli_test](https://github.com/SampleUser0001/vue_cli_test) | Vue CLIでVue.jsを動かす |
+| [Vue_fetch](https://github.com/SampleUser0001/Vue_fetch) | Vue.jsでfetchする。bulma.cssでレイアウトを整える |
 
 ### jQuery
 
