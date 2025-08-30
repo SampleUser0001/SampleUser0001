@@ -74,6 +74,7 @@
 | [Generate_combination_tsv](https://github.com/SampleUser0001/Generate_combination_tsv) | 組み合わせ表を生成する | Python |
 | [markdown-it_like_jekyll](https://github.com/SampleUser0001/markdown-it_like_jekyll) | markdown-itを使ってJekyllっぽいことをする | Node.js |
 | [tsv_to_json_headerlist](https://github.com/SampleUser0001/tsv_to_json_headerlist) | tsv -> json変換する。フラグが立っている行のヘッダを取得する | Python |
+| [SingleTaskWebPage](https://github.com/SampleUser0001/SingleTaskWebPage) | タスク管理ができる | Vue.js , bulma.css |
 
 ### 形態素解析
 
