@@ -277,7 +277,8 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 
 | リポジトリ | 概要 |
 | :--------- | :--- |
-| [Angular_WebSocket](https://github.com/SampleUser0001/Angular_WebSocket) | Angular + WebSocketでリアルタイム通信する(claude codeで作った) |
+| [Angular_WebSocket_Client](https://github.com/SampleUser0001/Angular_WebSocket_Client) | Angular + WebSocketでリアルタイム通信する(claude codeで作った) |
+| [Angular_WebSocket_Server](https://github.com/SampleUser0001/Angular_WebSocket_Server) | Angular + WebSocketでリアルタイム通信する(claude codeで作った) |
 | [Angular_highlight_SQL](https://github.com/SampleUser0001/Angular_highlite_SQL/) | Angular + highlight.jsでSQLを生成する(claude codeで作った) |
 
 ## HTML/CSS/JavaScript
