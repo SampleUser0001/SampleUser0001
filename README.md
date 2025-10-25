@@ -223,6 +223,10 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 
 ## JavaScript
 
+| リポジトリ | 概要 |
+| :--------- | :--- |
+| [subwindow](https://github.com/SampleUser0001/subwindow) | サブウィンドウ作成 |
+
 ### Node.js
 
 | リポジトリ | 概要 |
@@ -264,6 +268,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | :--------- | :--- |
 | [Practice_jQuery_Desktop_Reference](https://github.com/SampleUser0001/Practice_jQuery_Desktop_Reference) | [jQueryデスクトップリファレンス:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873115245/) の勉強用|
 | [Oreilly_jQuery_Cookbook](https://github.com/SampleUser0001/Oreilly_jQuery_Cookbook) | [jQueryクックブック:O'Reilly Japan](https://www.oreilly.co.jp/books/9784873114682/)の勉強用 |
+| [datepicker](https://github.com/SampleUser0001/datepicker) | datepickerのサンプル |
 
 ### React.js
 
