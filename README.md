@@ -16,6 +16,7 @@
     - [SpringBoot](#springboot)
     - [SpringBatch](#springbatch)
     - [Android](#android)
+    - [Tomcat + Ant + Ivy + Selenium](#tomcat--ant--ivy--selenium)
   - [JavaScript](#javascript)
     - [Node.js](#nodejs)
     - [TypeScript](#typescript)
@@ -220,6 +221,10 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [Android_Helloworld](https://github.com/SampleUser0001/Android_Helloworld) | 基本のテンプレート |
 | [Android_Preference](https://github.com/SampleUser0001/Android_Preference) | 設定画面 |
 | [Android_ListView_DataBind](https://github.com/SampleUser0001/Android_ListView_DataBind) | ListViewとDataBindで設定画面っぽいのを作成した |
+
+### Tomcat + Ant + Ivy + Selenium
+
+- [Webapp_ant_Selenium](https://github.com/SampleUser0001/Webapp_ant_Selenium)
 
 ## JavaScript
 
