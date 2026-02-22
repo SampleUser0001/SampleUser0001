@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>スネークケース ⇔ キャメルケース変換</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .input-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+            font-weight: 500;
+        }
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 14px;
+            font-family: 'Courier New', monospace;
+            resize: vertical;
+            min-height: 100px;
+            box-sizing: border-box;
+        }
+        textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 5px rgba(102, 126, 234, 0.5);
+        }
+        .button-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        button {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            border-radius: 5px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .btn-to-camel {
+            background: #667eea;
+            color: white;
+        }
+        .btn-to-camel:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+        }
+        .btn-to-snake {
+            background: #764ba2;
+            color: white;
+        }
+        .btn-to-snake:hover {
+            background: #653a8a;
+            transform: translateY(-2px);
+        }
+        .btn-clear {
+            background: #f56565;
+            color: white;
+        }
+        .btn-clear:hover {
+            background: #e53e3e;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f7fafc;
+            border-left: 4px solid #667eea;
+            border-radius: 5px;
+            display: none;
+        }
+        .result.show {
+            display: block;
+        }
+        .result-label {
+            color: #666;
+            font-size: 12px;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+        .result-text {
+            font-family: 'Courier New', monospace;
+            color: #333;
+            word-break: break-all;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>スネークケース ⇔ キャメルケース変換</h1>
+        
+        <div class="input-group">
+            <label for="input">入力テキスト:</label>
+            <textarea id="input" placeholder="例: snake_case_text または camelCaseText"></textarea>
+        </div>
+
+        <div class="button-group">
+            <button class="btn-to-camel" onclick="toCamera()">→ キャメルケース</button>
+            <button class="btn-to-snake" onclick="toSnake()">→ スネークケース</button>
+            <button class="btn-clear" onclick="clearAll()">クリア</button>
+        </div>
+
+        <div id="result" class="result">
+            <div class="result-label">変換結果:</div>
+            <div class="result-text" id="resultText"></div>
+        </div>
+    </div>
+
+    <script>
+        // スネークケース → キャメルケース
+        function toCamera() {
+            const input = document.getElementById('input').value.trim();
+            if (!input) {
+                alert('テキストを入力してください');
+                return;
+            }
+            
+            const camelCase = input
+                .split('_')
+                .map((word, index) => {
+                    if (index === 0) {
+                        return word.toLowerCase();
+                    }
+                    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+                })
+                .join('');
+            
+            showResult(camelCase);
+        }
+
+        // キャメルケース → スネークケース
+        function toSnake() {
+            const input = document.getElementById('input').value.trim();
+            if (!input) {
+                alert('テキストを入力してください');
+                return;
+            }
+            
+            const snakeCase = input
+                .replace(/([a-z])([A-Z])/g, '$1_$2')
+                .replace(/([A-Z])([A-Z][a-z])/g, '$1_$2')
+                .toLowerCase();
+            
+            showResult(snakeCase);
+        }
+
+        // 結果を表示
+        function showResult(result) {
+            const resultDiv = document.getElementById('result');
+            const resultText = document.getElementById('resultText');
+            resultText.innerHTML = result.split('\n').map(line => `<div>${line}</div>`).join('');
+            resultDiv.classList.add('show');
+        }
+
+        // クリア
+        function clearAll() {
+            document.getElementById('input').value = '';
+            document.getElementById('result').classList.remove('show');
+            document.getElementById('input').focus();
+        }
+
+        // Enterキーで変換
+        document.getElementById('input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && e.ctrlKey) {
+                toCamera();
+            }
+        });
+    </script>
+</body>
+</html>
