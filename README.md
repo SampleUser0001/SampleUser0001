@@ -304,6 +304,7 @@ JUnit自体ではなく、サンプルで使えそうなプロジェクトたち
 | [Call_SpringBoot_REST_API](https://github.com/SampleUser0001/Call_SpringBoot_REST_API) | [SpringBoot_REST_API](https://github.com/SampleUser0001/SpringBoot_REST_API)を呼ぶ。 |
 | [Bootstrap_practices](https://github.com/SampleUser0001/Bootstrap_practices) | Bootstrapの練習用。 |
 | [Bootstrap_practices(Github Pages)](https://sampleuser0001.github.io/Bootstrap_practices/index.html) | Bootstrapの練習用。(Github Pages) |
+| [Read_Json_HTML](https://github.com/SampleUser0001/Read_Json_HTML) | ブラウザでHTMLを開いたときにjsonを読み込んで画面を生成する |
 
 ### Jekyll
 
